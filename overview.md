@@ -1,6 +1,6 @@
 # Intergalactic FM streams for Kodi plugin
 
-Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. This overview has been automatically generated on 2018-12-15 09:15:32.
+Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. This overview has been automatically generated on 2018-12-15 10:09:43.
 
 ## CBS TV (cbstv)
 
@@ -8,7 +8,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Genre** (one to three genres): *electro, acid, italo, disco*
 
-**Plot** (twenty to thirty words): *Cybernetic Broadcasting System dominates our galaxy for over a decade. This stream is non-commercial, non-conventional and nothing like it can be encountered on any planet. There is no escaping CBS TV.*
+**Plot** (twenty to thirty words): *Cybernetic Broadcasting System dominates our galaxy for over a decade. This stream is non-commercial, non-conventional and nothing like it can be encountered on any planet. You can run all you want, but there is no escaping CBS TV.*
 
 **Poster** (1000 x 1500 PNG, main logo in center):
 ![Poster](../plugin.video.intergalacticfm/resources/cbstv-poster.png "Poster")
@@ -21,11 +21,11 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 ## Clone (clone)
 
-**Tagline** (two to five words): *DRAFT: *
+**Tagline** (two to five words): *Serge Clone's stream*
 
 **Genre** (one to three genres): *electronic music*
 
-**Plot** (twenty to thirty words): *DRAFT: In-store stream from Clone. This record shop, label and distributor focuses on electro, techno, house, soundtracks, (italo) disco and much more. Located in Rotterdam, the Netherlands, it is a lively part of the West Coast Sound of Holland as the owner is also an active dj and producer himself.*
+**Plot** (twenty to thirty words): *Serge Clone has a record shop located in Rotterdam, the Netherlands. Next to having a label and begin a distributor focused on electro, techno, house, soundtracks, (italo) disco and much more, he is also an active dj and producer himself.*
 
 **Poster** (1000 x 1500 PNG, main logo in center):
 ![Poster](../plugin.video.intergalacticfm/resources/clone-poster.png "Poster")
@@ -40,7 +40,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *DRAFT: *
 
-**Genre** (one to three genres): *electronic music*
+**Genre** (one to three genres): *DRAFT: electronic music*
 
 **Plot** (twenty to thirty words): *DRAFT: Discotto is located in London, but his sets are for an international audience. A dj with guts using special edits to creatively build a set from his home studio for all to enjoy.*
 
@@ -57,7 +57,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *DRAFT: *
 
-**Genre** (one to three genres): *electronic music*
+**Genre** (one to three genres): *DRAFT: electronic music*
 
 **Plot** (twenty to thirty words): *DRAFT: *
 
@@ -91,7 +91,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *DRAFT: *
 
-**Genre** (one to three genres): *electronic music*
+**Genre** (one to three genres): *DRAFT: electronic music*
 
 **Plot** (twenty to thirty words): *DRAFT: *
 
@@ -110,7 +110,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Genre** (one to three genres): *electro, acid, italo, B movies*
 
-**Plot** (twenty to thirty words): *This stream is Intergalactic FM's TV channel. Delivering a mix of live recordings from the Panama Racing Club, the best B movies and keeping you updated on UFO sighings.*
+**Plot** (twenty to thirty words): *This stream is Intergalactic FM's TV channel. Delivering a mix of live recordings from the Panama Racing Club, the best B movies and keeping you updated on UFO sighings.This is eh apex of the West Coast Sound of Holland.*
 
 **Poster** (1000 x 1500 PNG, main logo in center):
 ![Poster](../plugin.video.intergalacticfm/resources/prc-poster.png "Poster")
@@ -125,7 +125,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *DRAFT: *
 
-**Genre** (one to three genres): *electronic music*
+**Genre** (one to three genres): *DRAFT: electronic music*
 
 **Plot** (twenty to thirty words): *DRAFT: *
 
@@ -174,11 +174,11 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 ## Zahara (zahara)
 
-**Tagline** (two to five words): *DRAFT: *
+**Tagline** (two to five words): *Cocktailbar Scheveningen*
 
 **Genre** (one to three genres): *electronic music*
 
-**Plot** (twenty to thirty words): *DRAFT: Live stream from Zahara cocktail bar which is located directly at the beach in Scheveningen, the Netherlands. A frequent location for Intergalactic FM djs and host for many of the IFM's infamous top 100. The most West you can go on Holland's Coast.*
+**Plot** (twenty to thirty words): *Live stream from Zahara cocktail bar which is located directly at the beach in Scheveningen, the Netherlands. A frequent location for Intergalactic FM djs and has hosted for many of the IFM's infamous top 100. The most West you can go on Holland's Coast.*
 
 **Poster** (1000 x 1500 PNG, main logo in center):
 ![Poster](../plugin.video.intergalacticfm/resources/zahara-poster.png "Poster")
