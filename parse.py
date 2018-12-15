@@ -17,22 +17,24 @@ def write(out, now, locally=False):
     
     streams = load(open('../plugin.video.intergalacticfm/resources/streams.json'))
     for key, values in sorted(streams.items()):
-        out.write('## {} ({})\n\n'.format(values['label'], key))
+        filename = values['label'].lower().replace(' ', '_')
+        out.write('## {}\n\n'.format(values['label']))
         out.write('**Tagline** (two to five words): *{}*\n\n'.format(values['tagline']))
         out.write('**Genre** (one to three genres): *{}*\n\n'.format(values['genre']))
         out.write('**Plot** (twenty to thirty words): *{}*\n\n'.format(values['plot']))
+        out.write('**ID and basename**: `{}` and `{}`\n\n'.format(key, filename))
         out.write('**Poster** (1000 x 1500 PNG, main logo in center):\n')
         if locally:
-            out.write('![Poster](../plugin.video.intergalacticfm/resources/{}-poster.png "Poster")\n\n'.format(key))
+            out.write('![Poster](../plugin.video.intergalacticfm/resources/{}-poster.png "Poster")\n\n'.format(filename))
         else:
-            out.write('![Poster](https://github.com/intergalacticfm/plugin.video.intergalacticfm/blob/master/resources/{}-poster.png "Poster")\n\n'.format(key))
+            out.write('![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/{}-poster.png "Poster")\n\n'.format(filename))
         out.write('**Fanart** (1920 x 1080 JPG, only for background):\n')
         if locally:
-            out.write('![Fanart](https://github.com/intergalacticfm/plugin.video.intergalacticfm/blob/master/resources/{}-fanart.jpg "Fanart")\n\n'.format(key))
+            out.write('![Fanart](../plugin.video.intergalacticfm/resources/{}-fanart.jpg "Fanart")\n\n'.format(filename))
         else:
-            out.write('![Fanart](../plugin.video.intergalacticfm/resources/{}-fanart.jpg "Fanart")\n\n'.format(key))
+            out.write('![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/{}-fanart.jpg "Fanart")\n\n'.format(filename))
         out.write('**Clear logo** (810 x 310 PNG with transparency):\n')
-        out.write('![Clear logo](clearlogo-examples/{}-clearlogo.png "Fanart")\n\n'.format(key))
+        out.write('![Clear logo](clearlogo-examples/{}-clearlogo.png "Fanart")\n\n'.format(filename))
     
     out.close()
 
