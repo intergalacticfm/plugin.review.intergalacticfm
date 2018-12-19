@@ -1,6 +1,6 @@
 # Intergalactic FM streams for Kodi plugin
 
-Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. This overview has been automatically generated on 2018-12-15 10:26:55.
+Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. This overview has been automatically generated on 2018-12-19 12:21:51.
 
 ## CBS TV
 
@@ -42,11 +42,11 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 ## Discotto
 
-**Tagline** (two to five words): *DRAFT: *
+**Tagline** (two to five words): * *
 
-**Genre** (one to three genres): *DRAFT: electronic music*
+**Genre** (one to three genres): *electronic music*
 
-**Plot** (twenty to thirty words): *DRAFT: Discotto is located in London, but his sets are for an international audience. A dj with guts using special edits to creatively build a set from his home studio for all to enjoy.*
+**Plot** (twenty to thirty words): *Discotto is located in London, but his sets are for an international audience. A dj with guts using special edits to creatively build a set from his home studio for all to enjoy.*
 
 **ID and basename**: `discotto` and `discotto`
 
@@ -61,11 +61,11 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 ## Magic Waves
 
-**Tagline** (two to five words): *DRAFT: *
+**Tagline** (two to five words): * *
 
-**Genre** (one to three genres): *DRAFT: electronic music*
+**Genre** (one to three genres): *electronic music*
 
-**Plot** (twenty to thirty words): *DRAFT: *
+**Plot** (twenty to thirty words): * *
 
 **ID and basename**: `mw` and `magic_waves`
 
@@ -99,11 +99,11 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 ## Onderwereld
 
-**Tagline** (two to five words): *DRAFT: *
+**Tagline** (two to five words): * *
 
-**Genre** (one to three genres): *DRAFT: electronic music*
+**Genre** (one to three genres): *electronic music*
 
-**Plot** (twenty to thirty words): *DRAFT: *
+**Plot** (twenty to thirty words): * *
 
 **ID and basename**: `onderwereld` and `onderwereld`
 
@@ -137,11 +137,11 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 ## Shipwrec
 
-**Tagline** (two to five words): *DRAFT: *
+**Tagline** (two to five words): * *
 
-**Genre** (one to three genres): *DRAFT: electronic music*
+**Genre** (one to three genres): *electronic music*
 
-**Plot** (twenty to thirty words): *DRAFT: *
+**Plot** (twenty to thirty words): * *
 
 **ID and basename**: `shipwrec` and `shipwrec`
 
