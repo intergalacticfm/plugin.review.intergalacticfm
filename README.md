@@ -7,7 +7,6 @@ Review of the Intergalactic FM TV video plugin for Kodi
 To review the Intergalactic FM TV video plugin for Kodi, see [overview-online.md](overview-online.md) in your browser.
 
 
-
 ## Prerequisits
 
 Developers can use see [overview-locally.md](overview-locally.md) in their browser.
@@ -22,3 +21,9 @@ Parse JSON file to Markdown and PDF by running
 For this, install first
 
     sudo npm install -g markdown-pdf
+
+
+## Updates
+
+Updates in Kodi's main repository can be made via
+https://kodi.wiki/view/Submitting_Add-ons#Pull_requests
