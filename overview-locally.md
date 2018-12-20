@@ -1,6 +1,6 @@
 # Intergalactic FM streams for Kodi plugin
 
-Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. This overview has been automatically generated on 2018-12-19 12:21:51.
+Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. This overview has been automatically generated on 2018-12-20 17:24:39.
 
 ## CBS TV
 
@@ -137,11 +137,11 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 ## Shipwrec
 
-**Tagline** (two to five words): * *
+**Tagline** (two to five words): *Shipwreced*
 
 **Genre** (one to three genres): *electronic music*
 
-**Plot** (twenty to thirty words): * *
+**Plot** (twenty to thirty words): *Shipwrec Radio is a Nijmegen based label which focuses on acid, electro, house, techno, with excursions into braindance, ambient, IDM. Feat: DJ Shipwrec, Camiel,  Yash and sometimes featuring guest DJ's.*
 
 **ID and basename**: `shipwrec` and `shipwrec`
 
