@@ -16,7 +16,7 @@ def write(out, now, locally=False):
               'This overview has been automatically generated on {}.\n\n'.format(now))
     
     streams = load(open('../plugin.video.intergalacticfm/resources/streams.json'))
-    for key, values in sorted(streams.items()):
+    for key, values in streams.items():
         filename = values['label'].lower().replace(' ', '_')
         out.write('## {}\n\n'.format(values['label']))
         out.write('**Tagline** (two to five words): *{}*\n\n'.format(values['tagline']))

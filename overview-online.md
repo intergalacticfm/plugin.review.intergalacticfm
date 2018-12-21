@@ -1,6 +1,6 @@
 # Intergalactic FM streams for Kodi plugin
 
-Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. This overview has been automatically generated on 2018-12-20 17:24:39.
+Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. This overview has been automatically generated on 2018-12-21 07:37:59.
 
 ## CBS TV
 
@@ -21,43 +21,24 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Clear logo** (810 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/cbs_tv-clearlogo.png "Fanart")
 
-## Clone
+## Intergalactic TV
 
-**Tagline** (two to five words): *Serge Clone's stream*
+**Tagline** (two to five words): *No Station Such Dedication*
 
-**Genre** (one to three genres): *electronic music*
+**Genre** (one to three genres): *electro, acid, italo, B movies*
 
-**Plot** (twenty to thirty words): *Serge Clone has a record shop located in Rotterdam, the Netherlands. Next to having a label and begin a distributor focused on electro, techno, house, soundtracks, (italo) disco and much more, he is also an active dj and producer himself.*
+**Plot** (twenty to thirty words): *This stream is Intergalactic FM's TV channel. Delivering a mix of live recordings from the Panama Racing Club, the best B movies and keeping you updated on UFO sighings.This is eh apex of the West Coast Sound of Holland.*
 
-**ID and basename**: `clone` and `clone`
-
-**Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/clone-poster.png "Poster")
-
-**Fanart** (1920 x 1080 JPG, only for background):
-![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/clone-fanart.jpg "Fanart")
-
-**Clear logo** (810 x 310 PNG with transparency):
-![Clear logo](clearlogo-examples/clone-clearlogo.png "Fanart")
-
-## Discotto
-
-**Tagline** (two to five words): * *
-
-**Genre** (one to three genres): *electronic music*
-
-**Plot** (twenty to thirty words): *Discotto is located in London, but his sets are for an international audience. A dj with guts using special edits to creatively build a set from his home studio for all to enjoy.*
-
-**ID and basename**: `discotto` and `discotto`
+**ID and basename**: `prc` and `intergalactic_tv`
 
 **Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/discotto-poster.png "Poster")
+![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/intergalactic_tv-poster.png "Poster")
 
 **Fanart** (1920 x 1080 JPG, only for background):
-![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/discotto-fanart.jpg "Fanart")
+![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/intergalactic_tv-fanart.jpg "Fanart")
 
 **Clear logo** (810 x 310 PNG with transparency):
-![Clear logo](clearlogo-examples/discotto-clearlogo.png "Fanart")
+![Clear logo](clearlogo-examples/intergalactic_tv-clearlogo.png "Fanart")
 
 ## Magic Waves
 
@@ -97,82 +78,6 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Clear logo** (810 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/neon-clearlogo.png "Fanart")
 
-## Onderwereld
-
-**Tagline** (two to five words): * *
-
-**Genre** (one to three genres): *electronic music*
-
-**Plot** (twenty to thirty words): * *
-
-**ID and basename**: `onderwereld` and `onderwereld`
-
-**Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/onderwereld-poster.png "Poster")
-
-**Fanart** (1920 x 1080 JPG, only for background):
-![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/onderwereld-fanart.jpg "Fanart")
-
-**Clear logo** (810 x 310 PNG with transparency):
-![Clear logo](clearlogo-examples/onderwereld-clearlogo.png "Fanart")
-
-## Intergalactic TV
-
-**Tagline** (two to five words): *No Station Such Dedication*
-
-**Genre** (one to three genres): *electro, acid, italo, B movies*
-
-**Plot** (twenty to thirty words): *This stream is Intergalactic FM's TV channel. Delivering a mix of live recordings from the Panama Racing Club, the best B movies and keeping you updated on UFO sighings.This is eh apex of the West Coast Sound of Holland.*
-
-**ID and basename**: `prc` and `intergalactic_tv`
-
-**Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/intergalactic_tv-poster.png "Poster")
-
-**Fanart** (1920 x 1080 JPG, only for background):
-![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/intergalactic_tv-fanart.jpg "Fanart")
-
-**Clear logo** (810 x 310 PNG with transparency):
-![Clear logo](clearlogo-examples/intergalactic_tv-clearlogo.png "Fanart")
-
-## Shipwrec
-
-**Tagline** (two to five words): *Shipwreced*
-
-**Genre** (one to three genres): *electronic music*
-
-**Plot** (twenty to thirty words): *Shipwrec Radio is a Nijmegen based label which focuses on acid, electro, house, techno, with excursions into braindance, ambient, IDM. Feat: DJ Shipwrec, Camiel,  Yash and sometimes featuring guest DJ's.*
-
-**ID and basename**: `shipwrec` and `shipwrec`
-
-**Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/shipwrec-poster.png "Poster")
-
-**Fanart** (1920 x 1080 JPG, only for background):
-![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/shipwrec-fanart.jpg "Fanart")
-
-**Clear logo** (810 x 310 PNG with transparency):
-![Clear logo](clearlogo-examples/shipwrec-clearlogo.png "Fanart")
-
-## Submit
-
-**Tagline** (two to five words): *Gesloten Cirkel's stream*
-
-**Genre** (one to three genres): *electro, acid, techno*
-
-**Plot** (twenty to thirty words): *Stream from the Berlin-based enigmatic producer named Gesloten Cirkel. Submit to his stream with his music and visuals.*
-
-**ID and basename**: `submit` and `submit`
-
-**Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/submit-poster.png "Poster")
-
-**Fanart** (1920 x 1080 JPG, only for background):
-![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/submit-fanart.jpg "Fanart")
-
-**Clear logo** (810 x 310 PNG with transparency):
-![Clear logo](clearlogo-examples/submit-clearlogo.png "Fanart")
-
 ## Vunk
 
 **Tagline** (two to five words): *Music from the Heart*
@@ -192,6 +97,82 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Clear logo** (810 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/vunk-clearlogo.png "Fanart")
 
+## Submit
+
+**Tagline** (two to five words): *Gesloten Cirkel's stream*
+
+**Genre** (one to three genres): *electro, acid, techno*
+
+**Plot** (twenty to thirty words): *Stream from the producer named Gesloten Cirkel. Submit to his stream with his music and visuals.*
+
+**ID and basename**: `submit` and `submit`
+
+**Poster** (1000 x 1500 PNG, main logo in center):
+![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/submit-poster.png "Poster")
+
+**Fanart** (1920 x 1080 JPG, only for background):
+![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/submit-fanart.jpg "Fanart")
+
+**Clear logo** (810 x 310 PNG with transparency):
+![Clear logo](clearlogo-examples/submit-clearlogo.png "Fanart")
+
+## Discotto
+
+**Tagline** (two to five words): * *
+
+**Genre** (one to three genres): *electronic music*
+
+**Plot** (twenty to thirty words): *Discotto is located in London, but his sets are for an international audience. A dj with guts using special edits to creatively build a set from his home studio for all to enjoy.*
+
+**ID and basename**: `discotto` and `discotto`
+
+**Poster** (1000 x 1500 PNG, main logo in center):
+![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/discotto-poster.png "Poster")
+
+**Fanart** (1920 x 1080 JPG, only for background):
+![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/discotto-fanart.jpg "Fanart")
+
+**Clear logo** (810 x 310 PNG with transparency):
+![Clear logo](clearlogo-examples/discotto-clearlogo.png "Fanart")
+
+## Shipwrec
+
+**Tagline** (two to five words): *Shipwreced*
+
+**Genre** (one to three genres): *electronic music*
+
+**Plot** (twenty to thirty words): *Shipwrec Radio is a Nijmegen-based label which focuses on acid, electro, house and techno, with excursions into braindance, ambient and IDM. Featuring DJ Shipwrec, Camiel, Yash and sometimes guest DJs.*
+
+**ID and basename**: `shipwrec` and `shipwrec`
+
+**Poster** (1000 x 1500 PNG, main logo in center):
+![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/shipwrec-poster.png "Poster")
+
+**Fanart** (1920 x 1080 JPG, only for background):
+![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/shipwrec-fanart.jpg "Fanart")
+
+**Clear logo** (810 x 310 PNG with transparency):
+![Clear logo](clearlogo-examples/shipwrec-clearlogo.png "Fanart")
+
+## Clone
+
+**Tagline** (two to five words): *Serge Clone's stream*
+
+**Genre** (one to three genres): *electronic music*
+
+**Plot** (twenty to thirty words): *Serge Clone has a record shop located in Rotterdam, the Netherlands. Next to having a label and begin a distributor focused on electro, techno, house, soundtracks, (italo) disco and much more, he is also an active dj and producer himself.*
+
+**ID and basename**: `clone` and `clone`
+
+**Poster** (1000 x 1500 PNG, main logo in center):
+![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/clone-poster.png "Poster")
+
+**Fanart** (1920 x 1080 JPG, only for background):
+![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/clone-fanart.jpg "Fanart")
+
+**Clear logo** (810 x 310 PNG with transparency):
+![Clear logo](clearlogo-examples/clone-clearlogo.png "Fanart")
+
 ## Zahara
 
 **Tagline** (two to five words): *Cocktailbar Scheveningen*
@@ -210,4 +191,23 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Clear logo** (810 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/zahara-clearlogo.png "Fanart")
+
+## Onderwereld
+
+**Tagline** (two to five words): * *
+
+**Genre** (one to three genres): *electronic music*
+
+**Plot** (twenty to thirty words): * *
+
+**ID and basename**: `onderwereld` and `onderwereld`
+
+**Poster** (1000 x 1500 PNG, main logo in center):
+![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/onderwereld-poster.png "Poster")
+
+**Fanart** (1920 x 1080 JPG, only for background):
+![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/onderwereld-fanart.jpg "Fanart")
+
+**Clear logo** (810 x 310 PNG with transparency):
+![Clear logo](clearlogo-examples/onderwereld-clearlogo.png "Fanart")
 
