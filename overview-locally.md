@@ -1,6 +1,6 @@
 # Intergalactic FM streams for Kodi plugin
 
-Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. This overview has been automatically generated on 2018-12-21 07:37:59.
+Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. This overview has been automatically generated on 2019-01-09 16:24:22.
 
 ## CBS TV
 
@@ -118,11 +118,11 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 ## Discotto
 
-**Tagline** (two to five words): * *
+**Tagline** (two to five words): *D on the TV*
 
-**Genre** (one to three genres): *electronic music*
+**Genre** (one to three genres): *italo, disco, electro*
 
-**Plot** (twenty to thirty words): *Discotto is located in London, but his sets are for an international audience. A dj with guts using special edits to creatively build a set from his home studio for all to enjoy.*
+**Plot** (twenty to thirty words): *Streaming live and direct from the Woolwich triangle, London. Aural and visual stimulation from the studio featuring Discotto and guests.*
 
 **ID and basename**: `discotto` and `discotto`
 
