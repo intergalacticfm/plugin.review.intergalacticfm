@@ -1,6 +1,6 @@
 # Intergalactic FM streams for Kodi plugin
 
-Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. This overview has been automatically generated on 2019-01-09 16:24:22.
+Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. This overview has been automatically generated on 2019-01-14 12:03:14.
 
 ## CBS TV
 
@@ -194,11 +194,11 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 ## Onderwereld
 
-**Tagline** (two to five words): * *
+**Tagline** (two to five words): *electronic music*
 
 **Genre** (one to three genres): *electronic music*
 
-**Plot** (twenty to thirty words): * *
+**Plot** (twenty to thirty words): *Platform for all kinds of unique electronic music. Onderwereld is streaming from their bunker somewhere in the Hague.*
 
 **ID and basename**: `onderwereld` and `onderwereld`
 
