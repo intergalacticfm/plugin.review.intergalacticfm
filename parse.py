@@ -12,9 +12,13 @@ def write(out, now, locally=False):
               'Kodi has many different views and we do not know which view '
               'for navigating and playing streams is used by the user. '
               'So using this format as described by Kodi itself gives the '
-              'best result for all. '
-              'This overview has been automatically generated on {}.\n\n'.format(now))
-    
+              'best result for all. Let is know when something needs to be '
+              'changed. This overview has been automatically generated on '
+              '{}.\n\n'.format(now))
+    out.write('**Pleas note:** that the examples below with a **clearlogo** '
+              'are **only** shown in Kodi when you hit pause. The clearlogo is '
+              'not shown during normal playback. So a stream can still sport '
+              'its own logos whereever on the screen they want.\n\n')
     streams = load(open('../plugin.video.intergalacticfm/resources/streams.json'))
     for key, values in streams.items():
         filename = values['label'].lower().replace(' ', '_')
