@@ -1,6 +1,6 @@
 # Intergalactic FM streams for Kodi plugin
 
-Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2019-01-22 13:20:07.
+Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2019-01-22 13:31:57.
 
 **Pleas note:** that the examples below with a **clearlogo** are **only** shown in Kodi when you hit pause. The clearlogo is not shown during normal playback. So a stream can still sport its own logos whereever on the screen they want.
 
@@ -44,11 +44,11 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 ## Magic Waves
 
-**Tagline** (two to five words): * *
+**Tagline** (two to five words): *Do you believe in Magic?*
 
-**Genre** (one to three genres): *electronic music*
+**Genre** (one to three genres): *Future Past*
 
-**Plot** (twenty to thirty words): * *
+**Plot** (twenty to thirty words): *Hailing from the UK, Magic Waves has been broadcasting since 2006, and since 2009 as one of the main staples of Intergalactic FM. Known for championing underground music with no regard for the commercial or mainstream in their legendary regular Sunday night broadcasts, the Magic Waves team bring you music and culture from the future and past with the highest passion now on their very own TV channel.*
 
 **ID and basename**: `mw` and `magic_waves`
 
