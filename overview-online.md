@@ -1,6 +1,6 @@
 # Intergalactic FM streams for Kodi plugin
 
-Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2019-01-17 15:33:06.
+Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2019-01-22 13:20:07.
 
 **Pleas note:** that the examples below with a **clearlogo** are **only** shown in Kodi when you hit pause. The clearlogo is not shown during normal playback. So a stream can still sport its own logos whereever on the screen they want.
 
@@ -15,7 +15,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **ID and basename**: `cbstv` and `cbs_tv`
 
 **Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/cbs_tv-poster.png "Poster")
+![Poster](poster-examples/cbs_tv-poster.png "Poster")
 
 **Fanart** (1920 x 1080 JPG, only for background):
 ![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/cbs_tv-fanart.jpg "Fanart")
@@ -34,7 +34,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **ID and basename**: `prc` and `intergalactic_tv`
 
 **Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/intergalactic_tv-poster.png "Poster")
+![Poster](poster-examples/intergalactic_tv-poster.png "Poster")
 
 **Fanart** (1920 x 1080 JPG, only for background):
 ![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/intergalactic_tv-fanart.jpg "Fanart")
@@ -53,7 +53,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **ID and basename**: `mw` and `magic_waves`
 
 **Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/magic_waves-poster.png "Poster")
+![Poster](poster-examples/magic_waves-poster.png "Poster")
 
 **Fanart** (1920 x 1080 JPG, only for background):
 ![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/magic_waves-fanart.jpg "Fanart")
@@ -72,7 +72,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **ID and basename**: `neon` and `neon`
 
 **Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/neon-poster.png "Poster")
+![Poster](poster-examples/neon-poster.png "Poster")
 
 **Fanart** (1920 x 1080 JPG, only for background):
 ![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/neon-fanart.jpg "Fanart")
@@ -91,7 +91,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **ID and basename**: `vunk` and `vunk`
 
 **Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/vunk-poster.png "Poster")
+![Poster](poster-examples/vunk-poster.png "Poster")
 
 **Fanart** (1920 x 1080 JPG, only for background):
 ![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/vunk-fanart.jpg "Fanart")
@@ -110,7 +110,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **ID and basename**: `submit` and `submit`
 
 **Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/submit-poster.png "Poster")
+![Poster](poster-examples/submit-poster.png "Poster")
 
 **Fanart** (1920 x 1080 JPG, only for background):
 ![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/submit-fanart.jpg "Fanart")
@@ -129,7 +129,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **ID and basename**: `discotto` and `discotto`
 
 **Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/discotto-poster.png "Poster")
+![Poster](poster-examples/discotto-poster.png "Poster")
 
 **Fanart** (1920 x 1080 JPG, only for background):
 ![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/discotto-fanart.jpg "Fanart")
@@ -148,7 +148,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **ID and basename**: `shipwrec` and `shipwrec`
 
 **Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/shipwrec-poster.png "Poster")
+![Poster](poster-examples/shipwrec-poster.png "Poster")
 
 **Fanart** (1920 x 1080 JPG, only for background):
 ![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/shipwrec-fanart.jpg "Fanart")
@@ -167,7 +167,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **ID and basename**: `clone` and `clone`
 
 **Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/clone-poster.png "Poster")
+![Poster](poster-examples/clone-poster.png "Poster")
 
 **Fanart** (1920 x 1080 JPG, only for background):
 ![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/clone-fanart.jpg "Fanart")
@@ -186,7 +186,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **ID and basename**: `zahara` and `zahara`
 
 **Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/zahara-poster.png "Poster")
+![Poster](poster-examples/zahara-poster.png "Poster")
 
 **Fanart** (1920 x 1080 JPG, only for background):
 ![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/zahara-fanart.jpg "Fanart")
@@ -205,7 +205,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **ID and basename**: `onderwereld` and `onderwereld`
 
 **Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/onderwereld-poster.png "Poster")
+![Poster](poster-examples/onderwereld-poster.png "Poster")
 
 **Fanart** (1920 x 1080 JPG, only for background):
 ![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/onderwereld-fanart.jpg "Fanart")

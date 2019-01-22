@@ -28,10 +28,7 @@ def write(out, now, locally=False):
         out.write('**Plot** (twenty to thirty words): *{}*\n\n'.format(values['plot']))
         out.write('**ID and basename**: `{}` and `{}`\n\n'.format(key, filename))
         out.write('**Poster** (1000 x 1500 PNG, main logo in center):\n')
-        if locally:
-            out.write('![Poster](../plugin.video.intergalacticfm/resources/{}-poster.png "Poster")\n\n'.format(filename))
-        else:
-            out.write('![Poster](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/{}-poster.png "Poster")\n\n'.format(filename))
+        out.write('![Poster](poster-examples/{}-poster.png "Poster")\n\n'.format(filename))
         out.write('**Fanart** (1920 x 1080 JPG, only for background):\n')
         if locally:
             out.write('![Fanart](../plugin.video.intergalacticfm/resources/{}-fanart.jpg "Fanart")\n\n'.format(filename))
