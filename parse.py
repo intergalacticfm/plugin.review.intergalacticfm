@@ -7,6 +7,11 @@ from pprint import pprint
 
 def write(out, now, locally=False):
     out.write('# Intergalactic FM streams for Kodi plugin\n\n')
+    streams = load(open('../plugin.video.intergalacticfm/resources/streams.json'))
+    for key, values in streams.items():
+        filename = values['label'].lower().replace(' ', '_')
+        out.write('![Poster](poster-examples/small-{}-poster.png "Poster")'.format(filename))
+    out.write('\n\n')
     out.write('Below are the specific texts and images required by Kodi. '
               'Please, try to meet the requirements as close as possible. '
               'Kodi has many different views and we do not know which view '
@@ -19,7 +24,6 @@ def write(out, now, locally=False):
               'are **only** shown in Kodi when you hit pause. The clearlogo is '
               'not shown during normal playback. So a stream can still sport '
               'its own logos whereever on the screen they want.\n\n')
-    streams = load(open('../plugin.video.intergalacticfm/resources/streams.json'))
     for key, values in streams.items():
         filename = values['label'].lower().replace(' ', '_')
         out.write('## {}\n\n'.format(values['label']))

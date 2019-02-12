@@ -9,5 +9,6 @@ for i in ../plugin.video.intergalacticfm/resources/*-clearlogo.png; do
 done
 for i in ../plugin.video.intergalacticfm/resources/*-poster.png; do
 	convert $i -resize 30% poster-examples/`basename $i`
+	convert $i -resize 10% poster-examples/small-`basename $i`
 done
 ./parse.py
