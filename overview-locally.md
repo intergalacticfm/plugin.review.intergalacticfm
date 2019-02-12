@@ -1,8 +1,8 @@
 # Intergalactic FM streams for Kodi plugin
 
-![Poster](poster-examples/small-cbs_tv-poster.png "Poster")![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")![Poster](poster-examples/small-magic_waves-poster.png "Poster")![Poster](poster-examples/small-neon-poster.png "Poster")![Poster](poster-examples/small-vunk-poster.png "Poster")![Poster](poster-examples/small-submit-poster.png "Poster")![Poster](poster-examples/small-discotto-poster.png "Poster")![Poster](poster-examples/small-shipwrec-poster.png "Poster")![Poster](poster-examples/small-clone-poster.png "Poster")![Poster](poster-examples/small-zahara-poster.png "Poster")![Poster](poster-examples/small-onderwereld-poster.png "Poster")
+[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-submit-poster.png "Poster")](#submit)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)
 
-Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2019-02-12 12:28:50.
+Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2019-02-12 13:05:08.
 
 **Pleas note:** that the examples below with a **clearlogo** are **only** shown in Kodi when you hit pause. The clearlogo is not shown during normal playback. So a stream can still sport its own logos whereever on the screen they want.
 
@@ -50,7 +50,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Genre** (one to three genres): *Future Past*
 
-**Plot** (twenty to thirty words): *Hailing from the UK, Magic Waves has been broadcasting since 2006, and since 2009 as one of the main staples of Intergalactic FM. Known for championing underground music with no regard for the commercial or mainstream in their legendary regular Sunday night broadcasts, the Magic Waves team bring you music and culture from the future and past with the highest passion now on their very own TV channel.*
+**Plot** (twenty to thirty words): *Hailing from the UK, Magic Waves has been broadcasting since 2006. Known for underground music in their legendary regular Sunday night broadcasts, our team brings you music and culture from the future and past with the highest passion.*
 
 **ID and basename**: `mw` and `magic_waves`
 

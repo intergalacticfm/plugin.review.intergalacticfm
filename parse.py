@@ -10,7 +10,8 @@ def write(out, now, locally=False):
     streams = load(open('../plugin.video.intergalacticfm/resources/streams.json'))
     for key, values in streams.items():
         filename = values['label'].lower().replace(' ', '_')
-        out.write('![Poster](poster-examples/small-{}-poster.png "Poster")'.format(filename))
+        anchor = values['label'].lower().replace(' ', '-')
+        out.write('[![Poster](poster-examples/small-{}-poster.png "Poster")](#{})'.format(filename, anchor))
     out.write('\n\n')
     out.write('Below are the specific texts and images required by Kodi. '
               'Please, try to meet the requirements as close as possible. '
