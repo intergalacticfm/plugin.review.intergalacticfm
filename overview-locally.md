@@ -1,8 +1,8 @@
 # Intergalactic FM streams for Kodi plugin
 
-[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-submit-poster.png "Poster")](#submit)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-mule_driver-poster.png "Poster")](#mule-driver)
+[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-submit-poster.png "Poster")](#submit)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#muledriver)
 
-Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2019-05-26 15:48:24.
+Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2019-05-26 16:06:33.
 
 **Pleas note:** that the examples below with a **clearlogo** are **only** shown in Kodi when you hit pause. The clearlogo is not shown during normal playback. So a stream can still sport its own logos whereever on the screen they want.
 
@@ -10,9 +10,9 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *Nothing Beyond Our Reach*
 
-**Genre** (one to three genres): *electro, acid, italo, disco*
-
 **Plot** (twenty to thirty words): *Cybernetic Broadcasting System dominates our galaxy for over a decade. This stream is non-commercial, non-conventional and nothing like it can be encountered on any planet. You can run all you want, but there is no escaping CBS TV.*
+
+**Genre** (one to three genres): *electro, acid, italo, disco*
 
 **ID and basename**: `cbstv` and `cbs_tv`
 
@@ -29,9 +29,9 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *No Station Such Dedication*
 
-**Genre** (one to three genres): *electro, acid, italo, B movies*
-
 **Plot** (twenty to thirty words): *This stream is Intergalactic FM's TV channel. Delivering a mix of live recordings from the Panama Racing Club, the best B movies and keeping you updated on UFO sighings. This is the apex of the West Coast Sound of Holland.*
+
+**Genre** (one to three genres): *electro, acid, italo, B movies*
 
 **ID and basename**: `prc` and `intergalactic_tv`
 
@@ -48,9 +48,9 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *Do you believe in Magic?*
 
-**Genre** (one to three genres): *Future Past*
-
 **Plot** (twenty to thirty words): *Hailing from the UK, Magic Waves has been broadcasting since 2006. Known for underground music in their legendary regular Sunday night broadcasts, our team brings you music and culture from the future and past with the highest passion.*
+
+**Genre** (one to three genres): *Future Past*
 
 **ID and basename**: `mw` and `magic_waves`
 
@@ -67,9 +67,9 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *Dreams of Neon, Berlin*
 
-**Genre** (one to three genres): *electro, acid, italo*
-
 **Plot** (twenty to thirty words): *Dreams of Neon transmits from Berlin offering streams from Neon studios and club nights by Lazercat, Naks and the Dreams of Neon residents.*
+
+**Genre** (one to three genres): *electro, acid, italo*
 
 **ID and basename**: `neon` and `neon`
 
@@ -86,9 +86,9 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *Music from the Heart*
 
-**Genre** (one to three genres): *techno, acid, italo, disco*
-
 **Plot** (twenty to thirty words): *Music straight from the heart is what David Vunk is all about. Known for his label Moustace Records and his envigorating dj sets and productions, watch his weekly stream on Wednesday evening from West Coast's Rotterdam.*
+
+**Genre** (one to three genres): *techno, acid, italo, disco*
 
 **ID and basename**: `vunk` and `vunk`
 
@@ -105,9 +105,9 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *Gesloten Cirkel's stream*
 
-**Genre** (one to three genres): *electro, acid, techno*
-
 **Plot** (twenty to thirty words): *Stream from the producer named Gesloten Cirkel. Submit to his stream with his music and visuals.*
+
+**Genre** (one to three genres): *electro, acid, techno*
 
 **ID and basename**: `submit` and `submit`
 
@@ -124,9 +124,9 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *D on the TV*
 
-**Genre** (one to three genres): *italo, disco, electro*
-
 **Plot** (twenty to thirty words): *Streaming live and direct from the Woolwich triangle, London. Aural and visual stimulation from the studio featuring Discotto and guests.*
+
+**Genre** (one to three genres): *italo, disco, electro*
 
 **ID and basename**: `discotto` and `discotto`
 
@@ -143,9 +143,9 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *Shipwreced*
 
-**Genre** (one to three genres): *electronic music*
-
 **Plot** (twenty to thirty words): *Shipwrec Radio is a Nijmegen-based label which focuses on acid, electro, house and techno, with excursions into braindance, ambient and IDM. Featuring DJ Shipwrec, Camiel, Yash and sometimes guest DJs.*
+
+**Genre** (one to three genres): *electronic music*
 
 **ID and basename**: `shipwrec` and `shipwrec`
 
@@ -162,9 +162,9 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *Serge Clone's stream*
 
-**Genre** (one to three genres): *electronic music*
-
 **Plot** (twenty to thirty words): *Serge Clone has a record shop located in Rotterdam, the Netherlands. Next to having a label and begin a distributor focused on electro, techno, house, soundtracks, (italo) disco and much more, he is also an active dj and producer himself.*
+
+**Genre** (one to three genres): *electronic music*
 
 **ID and basename**: `clone` and `clone`
 
@@ -181,9 +181,9 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *Cocktailbar Scheveningen*
 
-**Genre** (one to three genres): *electronic music*
-
 **Plot** (twenty to thirty words): *Live stream from Zahara cocktail bar which is located directly at the beach in Scheveningen, the Netherlands. A frequent location for Intergalactic FM djs and has hosted for many of the IFM's infamous top 100. The most West you can go on Holland's Coast.*
+
+**Genre** (one to three genres): *electronic music*
 
 **ID and basename**: `zahara` and `zahara`
 
@@ -200,9 +200,9 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *electronic music*
 
-**Genre** (one to three genres): *electronic music*
-
 **Plot** (twenty to thirty words): *Platform for all kinds of unique electronic music. Onderwereld is streaming from their bunker somewhere in the Hague.*
+
+**Genre** (one to three genres): *electronic music*
 
 **ID and basename**: `onderwereld` and `onderwereld`
 
@@ -219,18 +219,18 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *Mule driving is not a crime*
 
-**Genre** (one to three genres): *electro, acid, techno*
-
 **Plot** (twenty to thirty words): *Live stream from Mule Driver's machine room*
 
-**ID and basename**: `muledriver` and `mule_driver`
+**Genre** (one to three genres): *electro, acid, techno*
+
+**ID and basename**: `muledriver` and `muledriver`
 
 **Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](poster-examples/mule_driver-poster.png "Poster")
+![Poster](poster-examples/muledriver-poster.png "Poster")
 
 **Fanart** (1920 x 1080 JPG, only for background):
-![Fanart](../plugin.video.intergalacticfm/resources/mule_driver-fanart.jpg "Fanart")
+![Fanart](../plugin.video.intergalacticfm/resources/muledriver-fanart.jpg "Fanart")
 
 **Clear logo** (810 x 310 PNG with transparency):
-![Clear logo](clearlogo-examples/mule_driver-clearlogo.png "Fanart")
+![Clear logo](clearlogo-examples/muledriver-clearlogo.png "Fanart")
 

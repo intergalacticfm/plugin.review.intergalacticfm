@@ -11,6 +11,9 @@ def overview(out, now, locally=False):
     for key, values in streams.items():
         filename = values['label'].lower().replace(' ', '_')
         anchor = values['label'].lower().replace(' ', '-')
+        if values['label'].lower() == 'mule driver': # exception
+            filename = 'muledriver'
+            anchor = filename
         out.write('[![Poster](poster-examples/small-{}-poster.png "Poster")](#{})'.format(filename, anchor))
     out.write('\n\n')
     out.write('Below are the specific texts and images required by Kodi. '
@@ -27,10 +30,12 @@ def overview(out, now, locally=False):
               'its own logos whereever on the screen they want.\n\n')
     for key, values in streams.items():
         filename = values['label'].lower().replace(' ', '_')
+        if values['label'].lower() == 'mule driver': # exception
+            filename = 'muledriver'
         out.write('## {}\n\n'.format(values['label']))
         out.write('**Tagline** (two to five words): *{}*\n\n'.format(values['tagline']))
-        out.write('**Genre** (one to three genres): *{}*\n\n'.format(values['genre']))
         out.write('**Plot** (twenty to thirty words): *{}*\n\n'.format(values['plot']))
+        out.write('**Genre** (one to three genres): *{}*\n\n'.format(values['genre']))
         out.write('**ID and basename**: `{}` and `{}`\n\n'.format(key, filename))
         out.write('**Poster** (1000 x 1500 PNG, main logo in center):\n')
         out.write('![Poster](poster-examples/{}-poster.png "Poster")\n\n'.format(filename))
@@ -50,26 +55,31 @@ def catalog(out, now, locally=False):
     for key, values in streams.items():
         filename = values['label'].lower().replace(' ', '_')
         anchor = values['label'].lower().replace(' ', '-')
+        if values['label'].lower() == 'mule driver': # exception
+            filename = 'muledriver'
+            anchor = filename
         out.write('[![Poster](poster-examples/small-{}-poster.png "Poster")](#{})'.format(filename, anchor))
     out.write('\n\n')
-    out.write('This overview has been automatically generated on '
-              '{}.\n\n'.format(now))
     for key, values in streams.items():
         filename = values['label'].lower().replace(' ', '_')
+        if values['label'].lower() == 'mule driver': # exception
+            filename = 'muledriver'
         out.write('# {}\n\n'.format(values['label']))
-        out.write('**Tagline**: *{}*\n\n'.format(values['tagline']))
-        out.write('**Genre**: *{}*\n\n'.format(values['genre']))
-        out.write('**Plot**: *{}*\n\n'.format(values['plot']))
-        out.write('**Menu**:\n')
-        out.write('![Poster](poster-examples/{}-poster.png "Poster")\n\n'.format(filename))
-        out.write('**Background**:\n')
+        out.write('![menu item](poster-examples/{}-poster.png "menu item")\n\n'.format(filename))
+        out.write('**Tagline** *{}*\n\n'.format(values['tagline']))
+        out.write('**Plot** *{}*\n\n'.format(values['plot']))
+        out.write('**Genre** *{}*\n\n'.format(values['genre']))
+        out.write('**Background** (only shown behind menu)\n')
         if locally:
-            out.write('![Fanart](../plugin.video.intergalacticfm/resources/{}-fanart.jpg "Fanart")\n\n'.format(filename))
+            out.write('![background](../plugin.video.intergalacticfm/resources/{}-fanart.jpg "background")\n\n'.format(filename))
         else:
-            out.write('![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/{}-fanart.jpg "Fanart")\n\n'.format(filename))
-        out.write('**Logo**:\n')
-        out.write('![Clear logo](clearlogo-examples/{}-clearlogo.png "Fanart")\n\n'.format(filename))
+            out.write('![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/{}-fanart.jpg "background")\n\n'.format(filename))
+        out.write('**Logo** (only shown when pauzing stream)\n')
+        out.write('![logo](clearlogo-examples/{}-clearlogo.png "logo")\n\n'.format(filename))
     
+    out.write('# Colophon\n\n')
+    out.write('This overview has been automatically generated on '
+              '{}.\n\n'.format(now))
     out.close()
 
 now = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
