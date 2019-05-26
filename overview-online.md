@@ -1,8 +1,8 @@
 # Intergalactic FM streams for Kodi plugin
 
-[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-submit-poster.png "Poster")](#submit)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)
+[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-submit-poster.png "Poster")](#submit)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-mule_driver-poster.png "Poster")](#mule-driver)
 
-Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2019-02-12 13:05:08.
+Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2019-05-26 15:48:24.
 
 **Pleas note:** that the examples below with a **clearlogo** are **only** shown in Kodi when you hit pause. The clearlogo is not shown during normal playback. So a stream can still sport its own logos whereever on the screen they want.
 
@@ -31,7 +31,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Genre** (one to three genres): *electro, acid, italo, B movies*
 
-**Plot** (twenty to thirty words): *This stream is Intergalactic FM's TV channel. Delivering a mix of live recordings from the Panama Racing Club, the best B movies and keeping you updated on UFO sighings.This is eh apex of the West Coast Sound of Holland.*
+**Plot** (twenty to thirty words): *This stream is Intergalactic FM's TV channel. Delivering a mix of live recordings from the Panama Racing Club, the best B movies and keeping you updated on UFO sighings. This is the apex of the West Coast Sound of Holland.*
 
 **ID and basename**: `prc` and `intergalactic_tv`
 
@@ -214,4 +214,23 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Clear logo** (810 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/onderwereld-clearlogo.png "Fanart")
+
+## Mule Driver
+
+**Tagline** (two to five words): *Mule driving is not a crime*
+
+**Genre** (one to three genres): *electro, acid, techno*
+
+**Plot** (twenty to thirty words): *Live stream from Mule Driver's machine room*
+
+**ID and basename**: `muledriver` and `mule_driver`
+
+**Poster** (1000 x 1500 PNG, main logo in center):
+![Poster](poster-examples/mule_driver-poster.png "Poster")
+
+**Fanart** (1920 x 1080 JPG, only for background):
+![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/mule_driver-fanart.jpg "Fanart")
+
+**Clear logo** (810 x 310 PNG with transparency):
+![Clear logo](clearlogo-examples/mule_driver-clearlogo.png "Fanart")
 

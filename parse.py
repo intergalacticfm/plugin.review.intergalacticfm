@@ -5,7 +5,7 @@ from datetime import datetime
 from pprint import pprint
 
 
-def write(out, now, locally=False):
+def overview(out, now, locally=False):
     out.write('# Intergalactic FM streams for Kodi plugin\n\n')
     streams = load(open('../plugin.video.intergalacticfm/resources/streams.json'))
     for key, values in streams.items():
@@ -44,6 +44,36 @@ def write(out, now, locally=False):
     
     out.close()
 
+def catalog(out, now, locally=False):
+    out.write('# Intergalactic FM streams for Kodi plugin\n\n')
+    streams = load(open('../plugin.video.intergalacticfm/resources/streams.json'))
+    for key, values in streams.items():
+        filename = values['label'].lower().replace(' ', '_')
+        anchor = values['label'].lower().replace(' ', '-')
+        out.write('[![Poster](poster-examples/small-{}-poster.png "Poster")](#{})'.format(filename, anchor))
+    out.write('\n\n')
+    out.write('This overview has been automatically generated on '
+              '{}.\n\n'.format(now))
+    for key, values in streams.items():
+        filename = values['label'].lower().replace(' ', '_')
+        out.write('# {}\n\n'.format(values['label']))
+        out.write('**Tagline**: *{}*\n\n'.format(values['tagline']))
+        out.write('**Genre**: *{}*\n\n'.format(values['genre']))
+        out.write('**Plot**: *{}*\n\n'.format(values['plot']))
+        out.write('**Menu**:\n')
+        out.write('![Poster](poster-examples/{}-poster.png "Poster")\n\n'.format(filename))
+        out.write('**Background**:\n')
+        if locally:
+            out.write('![Fanart](../plugin.video.intergalacticfm/resources/{}-fanart.jpg "Fanart")\n\n'.format(filename))
+        else:
+            out.write('![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/{}-fanart.jpg "Fanart")\n\n'.format(filename))
+        out.write('**Logo**:\n')
+        out.write('![Clear logo](clearlogo-examples/{}-clearlogo.png "Fanart")\n\n'.format(filename))
+    
+    out.close()
+
 now = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
-write(open('overview-online.md', 'w'), now)
-write(open('overview-locally.md', 'w'), now, True)
+overview(open('overview-online.md', 'w'), now)
+overview(open('overview-locally.md', 'w'), now, True)
+catalog(open('catalog-online.md', 'w'), now)
+catalog(open('catalog-locally.md', 'w'), now, True)

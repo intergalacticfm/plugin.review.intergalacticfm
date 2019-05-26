@@ -1,6 +1,11 @@
 # plugin.video.intergalacticfm-review
 
-Review of the Intergalactic FM TV video plugin for Kodi
+Catalog and review of the Intergalactic FM TV video plugin for Kodi
+
+## Catalog
+
+To view the catalog with streams of the Intergalactic FM TV video plugin for Kodi, see [overview-online.md](overview-online.md) in your browser.
+
 
 ## Review
 
