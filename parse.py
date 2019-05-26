@@ -13,7 +13,10 @@ def overview(out, now, locally=False):
         anchor = values['label'].lower().replace(' ', '-')
         if values['label'].lower() == 'mule driver': # exception
             filename = 'muledriver'
-            anchor = filename
+            anchor = 'mule-driver'
+        elif values['label'].lower() == 'murder capital tv': # exception
+            filename = 'intergalactic_tv'
+            anchor = 'intergalactic-tv'
         out.write('[![Poster](poster-examples/small-{}-poster.png "Poster")](#{})'.format(filename, anchor))
     out.write('\n\n')
     out.write('Below are the specific texts and images required by Kodi. '
@@ -32,6 +35,8 @@ def overview(out, now, locally=False):
         filename = values['label'].lower().replace(' ', '_')
         if values['label'].lower() == 'mule driver': # exception
             filename = 'muledriver'
+        elif values['label'].lower() == 'murder capital tv': # exception
+            filename = 'intergalactic_tv'
         out.write('## {}\n\n'.format(values['label']))
         out.write('**Tagline** (two to five words): *{}*\n\n'.format(values['tagline']))
         out.write('**Plot** (twenty to thirty words): *{}*\n\n'.format(values['plot']))
@@ -57,13 +62,18 @@ def catalog(out, now, locally=False):
         anchor = values['label'].lower().replace(' ', '-')
         if values['label'].lower() == 'mule driver': # exception
             filename = 'muledriver'
-            anchor = filename
+            anchor = 'mule-driver'
+        elif values['label'].lower() == 'murder capital tv': # exception
+            filename = 'intergalactic_tv'
+            anchor = 'intergalactic-tv'
         out.write('[![Poster](poster-examples/small-{}-poster.png "Poster")](#{})'.format(filename, anchor))
     out.write('\n\n')
     for key, values in streams.items():
         filename = values['label'].lower().replace(' ', '_')
         if values['label'].lower() == 'mule driver': # exception
             filename = 'muledriver'
+        elif values['label'].lower() == 'murder capital tv': # exception
+            filename = 'intergalactic_tv'
         out.write('# {}\n\n'.format(values['label']))
         out.write('![menu item](poster-examples/{}-poster.png "menu item")\n\n'.format(filename))
         out.write('**Tagline** *{}*\n\n'.format(values['tagline']))
