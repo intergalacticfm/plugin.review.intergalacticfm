@@ -1,6 +1,6 @@
 # Intergalactic FM streams for Kodi plugin
 
-[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-submit-poster.png "Poster")](#submit)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#mule-driver)
+[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-submit-poster.png "Poster")](#submit)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#mule-driver)[![Poster](poster-examples/small-leftover-poster.png "Poster")](#leftover)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)
 
 # CBS TV
 
@@ -146,7 +146,71 @@
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/muledriver-clearlogo.png "logo")
 
+# Leftover
+
+![menu item](poster-examples/leftover-poster.png "menu item")
+
+**Tagline** *Straight from the bin*
+
+**Plot** *Taking from all corners of the underground, Leftover Radio brings weekly broadcasts from DIY communities and free spaces. Personal selections and experimental live-sets are transmitted over makeshift connections to a global audience.*
+
+**Genre** *electro, acid, tekno*
+
+**Background** (only shown behind menu)
+![background](../plugin.video.intergalacticfm/resources/leftover-fanart.jpg "background")
+
+**Logo** (only shown when pauzing stream)
+![logo](clearlogo-examples/leftover-clearlogo.png "logo")
+
+# Vunk
+
+![menu item](poster-examples/vunk-poster.png "menu item")
+
+**Tagline** *Music from the Heart*
+
+**Plot** *Music straight from the heart is what David Vunk is all about. Known for his label Moustace Records and his envigorating dj sets and productions, watch his weekly stream on Wednesday evening from West Coast's Rotterdam.*
+
+**Genre** *techno, acid, italo, disco*
+
+**Background** (only shown behind menu)
+![background](../plugin.video.intergalacticfm/resources/vunk-fanart.jpg "background")
+
+**Logo** (only shown when pauzing stream)
+![logo](clearlogo-examples/vunk-clearlogo.png "logo")
+
+# Clone
+
+![menu item](poster-examples/clone-poster.png "menu item")
+
+**Tagline** *Serge Clone's stream*
+
+**Plot** *Serge Clone has a record shop located in Rotterdam, the Netherlands. Next to having a label and begin a distributor focused on electro, techno, house, soundtracks, (italo) disco and much more, he is also an active dj and producer himself.*
+
+**Genre** *electronic music*
+
+**Background** (only shown behind menu)
+![background](../plugin.video.intergalacticfm/resources/clone-fanart.jpg "background")
+
+**Logo** (only shown when pauzing stream)
+![logo](clearlogo-examples/clone-clearlogo.png "logo")
+
+# Zahara
+
+![menu item](poster-examples/zahara-poster.png "menu item")
+
+**Tagline** *Cocktailbar Scheveningen*
+
+**Plot** *Live stream from Zahara cocktail bar which is located directly at the beach in Scheveningen, the Netherlands. A frequent location for Intergalactic FM djs and has hosted for many of the IFM's infamous top 100. The most West you can go on Holland's Coast.*
+
+**Genre** *electronic music*
+
+**Background** (only shown behind menu)
+![background](../plugin.video.intergalacticfm/resources/zahara-fanart.jpg "background")
+
+**Logo** (only shown when pauzing stream)
+![logo](clearlogo-examples/zahara-clearlogo.png "logo")
+
 # Colophon
 
-This overview has been automatically generated on 2019-05-26 16:27:12.
+This overview has been automatically generated on 2019-06-04 17:22:20.
 
