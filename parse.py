@@ -68,6 +68,8 @@ def catalog(out, now, locally=False):
             anchor = 'intergalactic-tv'
         out.write('[![Poster](poster-examples/small-{}-poster.png "Poster")](#{})'.format(filename, anchor))
     out.write('\n\n')
+    out.write('Streams are only available in Kodi if they are live. When they are not live, they are hidden.\n')
+    out.write('\n\n')
     for key, values in streams.items():
         filename = values['label'].lower().replace(' ', '_')
         if values['label'].lower() == 'mule driver': # exception
