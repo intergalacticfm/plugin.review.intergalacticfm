@@ -6,7 +6,7 @@ from pprint import pprint
 
 
 def overview(out, now, locally=False):
-    out.write('# Intergalactic FM streams for Kodi plugin\n\n')
+    out.write('# Intergalactic FM streams for Kodi video plugin\n\n')
     streams = load(open('../plugin.video.intergalacticfm/resources/streams.json'))
     for key, values in streams.items():
         filename = values['label'].lower().replace(' ', '_')
@@ -55,7 +55,7 @@ def overview(out, now, locally=False):
     out.close()
 
 def catalog(out, now, locally=False):
-    out.write('# Intergalactic FM streams for Kodi plugin\n\n')
+    out.write('# Intergalactic FM streams for Kodi video plugin\n\n')
     streams = load(open('../plugin.video.intergalacticfm/resources/streams.json'))
     for key, values in streams.items():
         filename = values['label'].lower().replace(' ', '_')
@@ -90,12 +90,14 @@ def catalog(out, now, locally=False):
         out.write('![logo](clearlogo-examples/{}-clearlogo.png "logo")\n\n'.format(filename))
     
     out.write('# Colophon\n\n')
+    out.write('The video plugin can be installed directly from within Kodi. For more information, see https://kodi.tv/addon/plugins-video-add-ons/intergalactic-fm-tv')
+    out.write('\n\n')
     out.write('This overview has been automatically generated on '
               '{}.\n\n'.format(now))
     out.close()
 
 now = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
-overview(open('overview-online.md', 'w'), now)
-overview(open('overview-locally.md', 'w'), now, True)
-catalog(open('catalog-online.md', 'w'), now)
-catalog(open('catalog-locally.md', 'w'), now, True)
+overview(open('admin-overview-online.md', 'w'), now)
+overview(open('admin-overview-locally.md', 'w'), now, True)
+catalog(open('public-catalog-online.md', 'w'), now)
+catalog(open('public-catalog-locally.md', 'w'), now, True)
