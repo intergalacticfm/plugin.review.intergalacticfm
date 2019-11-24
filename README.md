@@ -13,6 +13,11 @@ To view the public catalog with streams of the Intergalactic FM TV video plugin 
 To review the Intergalactic FM TV video plugin for Kodi, see [admin-overview-locally.md](admin-overview-locally.md) in your browser.
 
 
+## Screenshots
+
+Screenshots are in PNG but are optimized with `optipng` to reduce file size.
+
+
 ## Extra
 
 Also available are [public-overview-locally.md](public-overview-locally.md) and [admin-overview-online.md](admin-overview-online.md).
