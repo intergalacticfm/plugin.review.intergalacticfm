@@ -42,4 +42,18 @@ For this, install first
 ## Updates
 
 Updates in Kodi's main repository can be made via
-https://kodi.wiki/view/Submitting_Add-ons#Pull_requests
+~~https://kodi.wiki/view/Submitting_Add-ons#Pull_requests~~
+https://kodi.wiki/view/HOW-TO:Create_add-on_PRs_using_Git_Subtree_Merging
+
+The command to run are:
+    git clone https://github.com/intergalacticfm/repo-plugins
+    cd repo-plugins
+    git remote -v
+    git checkout krypton
+    TODO
+    TODO
+    TODO
+    
+    
+    
+
