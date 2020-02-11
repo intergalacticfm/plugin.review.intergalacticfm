@@ -14,6 +14,9 @@ def overview(out, now, locally=False):
         if values['label'].lower() == 'mule driver': # exception
             filename = 'muledriver'
             anchor = 'mule-driver'
+        elif values['label'].lower() == 'el camino': # exception
+            filename = 'elcamino'
+            anchor = 'el-camino'
         elif values['label'].lower() == 'murder capital tv': # exception
             filename = 'intergalactic_tv'
             anchor = 'intergalactic-tv'
@@ -35,6 +38,8 @@ def overview(out, now, locally=False):
         filename = values['label'].lower().replace(' ', '_')
         if values['label'].lower() == 'mule driver': # exception
             filename = 'muledriver'
+        elif values['label'].lower() == 'el camino': # exception
+            filename = 'elcamino'
         elif values['label'].lower() == 'murder capital tv': # exception
             filename = 'intergalactic_tv'
         out.write('## {}\n\n'.format(values['label']))
@@ -44,7 +49,7 @@ def overview(out, now, locally=False):
         out.write('**ID and basename**: `{}` and `{}`\n\n'.format(key, filename))
         out.write('**Poster** (1000 x 1500 PNG, main logo in center):\n')
         out.write('![Poster](poster-examples/{}-poster.png "Poster")\n\n'.format(filename))
-        out.write('**Fanart** (1920 x 1080 JPG, only for background):\n')
+        out.write('**Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):\n')
         if locally:
             out.write('![Fanart](../plugin.video.intergalacticfm/resources/{}-fanart.jpg "Fanart")\n\n'.format(filename))
         else:
@@ -63,6 +68,9 @@ def catalog(out, now, locally=False):
         if values['label'].lower() == 'mule driver': # exception
             filename = 'muledriver'
             anchor = 'mule-driver'
+        elif values['label'].lower() == 'el camino': # exception
+            filename = 'elcamino'
+            anchor = 'el-camino'
         elif values['label'].lower() == 'murder capital tv': # exception
             filename = 'intergalactic_tv'
             anchor = 'intergalactic-tv'
@@ -74,6 +82,8 @@ def catalog(out, now, locally=False):
         filename = values['label'].lower().replace(' ', '_')
         if values['label'].lower() == 'mule driver': # exception
             filename = 'muledriver'
+        elif values['label'].lower() == 'el camino': # exception
+            filename = 'elcamino'
         elif values['label'].lower() == 'murder capital tv': # exception
             filename = 'intergalactic_tv'
         out.write('# {}\n\n'.format(values['label']))
