@@ -107,7 +107,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 **Tagline** *Es el Camino*
 
-**Plot** *TODO.*
+**Plot** *Miqkael has been a dj since 1997 and lived in Barcelona from 2000 until 2011, playing at Moog and other clubs. Since that time he has been also performing around Europe. Streaming from his Basque homeland, he shows you the way by mixing love and anger.*
 
 **Genre** *techno, disco, chicago, electro*
 
@@ -233,5 +233,5 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 The video plugin can be installed directly from within Kodi. For more information, see https://kodi.tv/addon/plugins-video-add-ons/intergalactic-fm-tv
 
-This overview has been automatically generated on 2020-02-11 10:16:22.
+This overview has been automatically generated on 2020-02-11 11:19:07.
 
