@@ -53,7 +53,7 @@ def overview(out, now, locally=False):
         if locally:
             out.write('![Fanart](../plugin.video.intergalacticfm/resources/{}-fanart.jpg "Fanart")\n\n'.format(filename))
         else:
-            out.write('![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/{}-fanart.jpg "Fanart")\n\n'.format(filename))
+            out.write('![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/{}-fanart.jpg "Fanart")\n\n'.format(filename))
         out.write('**Clear logo** (810 x 310 PNG with transparency):\n')
         out.write('![Clear logo](clearlogo-examples/{}-clearlogo.png "Fanart")\n\n'.format(filename))
     
@@ -95,7 +95,7 @@ def catalog(out, now, locally=False):
         if locally:
             out.write('![background](../plugin.video.intergalacticfm/resources/{}-fanart.jpg "background")\n\n'.format(filename))
         else:
-            out.write('![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/{}-fanart.jpg "background")\n\n'.format(filename))
+            out.write('![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/{}-fanart.jpg "background")\n\n'.format(filename))
         out.write('**Logo** (only shown when pauzing stream)\n')
         out.write('![logo](clearlogo-examples/{}-clearlogo.png "logo")\n\n'.format(filename))
     

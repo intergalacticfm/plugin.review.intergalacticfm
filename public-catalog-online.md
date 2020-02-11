@@ -16,7 +16,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 **Genre** *electro, acid, italo, disco*
 
 **Background** (only shown behind menu)
-![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/cbs_tv-fanart.jpg "background")
+![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/cbs_tv-fanart.jpg "background")
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/cbs_tv-clearlogo.png "logo")
@@ -32,7 +32,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 **Genre** *electro, acid, italo, B movies*
 
 **Background** (only shown behind menu)
-![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/intergalactic_tv-fanart.jpg "background")
+![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/intergalactic_tv-fanart.jpg "background")
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/intergalactic_tv-clearlogo.png "logo")
@@ -48,7 +48,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 **Genre** *Future Past*
 
 **Background** (only shown behind menu)
-![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/magic_waves-fanart.jpg "background")
+![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/magic_waves-fanart.jpg "background")
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/magic_waves-clearlogo.png "logo")
@@ -64,7 +64,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 **Genre** *electro, acid, italo*
 
 **Background** (only shown behind menu)
-![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/neon-fanart.jpg "background")
+![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/neon-fanart.jpg "background")
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/neon-clearlogo.png "logo")
@@ -80,7 +80,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 **Genre** *electro, acid, techno*
 
 **Background** (only shown behind menu)
-![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/submit-fanart.jpg "background")
+![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/submit-fanart.jpg "background")
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/submit-clearlogo.png "logo")
@@ -96,7 +96,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 **Genre** *italo, disco, electro*
 
 **Background** (only shown behind menu)
-![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/discotto-fanart.jpg "background")
+![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/discotto-fanart.jpg "background")
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/discotto-clearlogo.png "logo")
@@ -112,7 +112,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 **Genre** *techno, disco, chicago, electro*
 
 **Background** (only shown behind menu)
-![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/elcamino-fanart.jpg "background")
+![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/elcamino-fanart.jpg "background")
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/elcamino-clearlogo.png "logo")
@@ -128,7 +128,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 **Genre** *electronic music*
 
 **Background** (only shown behind menu)
-![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/shipwrec-fanart.jpg "background")
+![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/shipwrec-fanart.jpg "background")
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/shipwrec-clearlogo.png "logo")
@@ -144,7 +144,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 **Genre** *electronic music*
 
 **Background** (only shown behind menu)
-![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/onderwereld-fanart.jpg "background")
+![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/onderwereld-fanart.jpg "background")
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/onderwereld-clearlogo.png "logo")
@@ -160,7 +160,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 **Genre** *electro, acid, techno*
 
 **Background** (only shown behind menu)
-![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/muledriver-fanart.jpg "background")
+![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/muledriver-fanart.jpg "background")
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/muledriver-clearlogo.png "logo")
@@ -176,7 +176,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 **Genre** *electro, acid, tekno*
 
 **Background** (only shown behind menu)
-![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/leftover-fanart.jpg "background")
+![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/leftover-fanart.jpg "background")
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/leftover-clearlogo.png "logo")
@@ -192,7 +192,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 **Genre** *techno, acid, italo, disco*
 
 **Background** (only shown behind menu)
-![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/vunk-fanart.jpg "background")
+![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/vunk-fanart.jpg "background")
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/vunk-clearlogo.png "logo")
@@ -208,7 +208,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 **Genre** *electronic music*
 
 **Background** (only shown behind menu)
-![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/clone-fanart.jpg "background")
+![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/clone-fanart.jpg "background")
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/clone-clearlogo.png "logo")
@@ -224,7 +224,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 **Genre** *electronic music*
 
 **Background** (only shown behind menu)
-![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/master/resources/zahara-fanart.jpg "background")
+![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/zahara-fanart.jpg "background")
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/zahara-clearlogo.png "logo")
@@ -233,5 +233,5 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 The video plugin can be installed directly from within Kodi. For more information, see https://kodi.tv/addon/plugins-video-add-ons/intergalactic-fm-tv
 
-This overview has been automatically generated on 2020-02-11 10:05:41.
+This overview has been automatically generated on 2020-02-11 10:16:22.
 
