@@ -4,14 +4,21 @@ This document has instructions for making recordings or doing live streaming
 with [OBS Studio](https://obsproject.com/). This is free and open source
 software which runs on Windows, macOS and Linux.
 
-## 1 Recording
+## 1 Installation
+
+Install the latest version of OBS from their website.
+
+For Linux, use their PPA to get the latest version and automatically keep it up
+to date. Many Linux distributions ship OBS, but this is often an older version.
+
+## 2 Recording
 
 To make a recording to send in for exclusive broadcasting, make the following
 steps.
 
 In `Settings / Output` choose `Advanced` for `Output Mode`.
 
-### 1.1 Output Recording
+### 2.1 Output Recording
 
 Then, in the `Recoding` tab, set the recording path to what you prefer.
 Essential is to make the settings:
@@ -22,14 +29,14 @@ Essential is to make the settings:
 
 ![OBS settings output recording](images/obs-settings-output-recording.png)
 
-### 1.2 Output Audio
+### 2.2 Output Audio
 
 In the `Audio` tab:
 1. Set for all tracks the `Audio Bitrate` to `320`. *
 
 ![OBS settings output audio](images/obs-settings-output-audio.png)
 
-### 1.3 Alternative settings *
+### 2.3 Alternative settings *
 
 In case your device cannot cope with these settings, make **all** of the
 following changes to the settings indicated with an *:
@@ -41,7 +48,7 @@ Under Recording:
 Under Audio:
 * set `Audio Bitrate` to `192`
 
-### 1.4 Recording, texts, logos, etc.
+### 2.4 Recording, texts, logos, etc.
 
 Record **without** any logos or text in the video! Also, do not make
 announcements in the audio.
@@ -69,6 +76,6 @@ exclude the recording from broadcasting.
 If you have any questions, such as personal upload instructions, please contact
 us via email or in the chat.
 
-## 2 Streaming
+## 3 Streaming
 
 Instructions for live streaming will be added here soon.
