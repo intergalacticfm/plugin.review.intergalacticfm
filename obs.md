@@ -73,7 +73,7 @@ background when needed.
 
 **IMPORTANT:** When you send in any recording, you agree with exclusive
 broadcasting rights until two weeks after the first broadcast. Then your
-recording will be added to our online archive. From then on, you can share it
+recording will be added to the online archive. From then on, you can share it
 all you want. Do not leak or share the recording before that. Doing so will
 exclude the recording from broadcasting.
 
