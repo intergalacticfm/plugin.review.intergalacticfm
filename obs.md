@@ -66,7 +66,6 @@ Provide the following text the accompanying message when sending in a recording:
 because we don't want to guess the correct spelling
 * English name of the city and country where the recording was made
 * date when the recording was made, if possible also the start time
-* optionally a relevant artist URL
 
 If desired, also send in a logo as a PNG or PDF file. Use a transparent
 background when needed.
