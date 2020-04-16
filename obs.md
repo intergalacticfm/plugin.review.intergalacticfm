@@ -58,6 +58,9 @@ do some proper testing before doing a recording. Close other applications and
 mute notification sounds from your device. View your recording before sending it
 in to double check all went OK.
 
+If you have, for example, two artists recording directly after each other at the
+same location, make two separate recordings from it please.
+
 Provide the following text the accompanying message when sending in a recording:
 * artist name, in proper upper and lower case characters and spaces where needed
 because we don't want to guess the correct spelling
