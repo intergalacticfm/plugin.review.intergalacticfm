@@ -11,6 +11,27 @@ Install the latest version of OBS from their website.
 For Linux, use their PPA to get the latest version and automatically keep it up
 to date. Many Linux distributions ship OBS, but this is often an older version.
 
+### 1.1 Configuration
+
+When starting OBS for the first time, an auto-confioguration wizard is started.
+Choose a `Base (Canvas) Resolution` of `1920x1080` and `30` for `FPS`. For both,
+preferably not the `Use Current` version, but only these values.
+
+### 1.2 Cameras
+
+Connect two or three USB cameras. Then, create `Scenes` for each camera. For
+each scene, go to `Sources` and add one camera as a `Video Capture Device`.
+Then, drag and drop that source into the video preview and resize the view to
+match the entire preview.
+
+To test the scenes, choose to `Studio Mode` in te lower right of the screen.
+Then, switch between the scens by selecting them. The buttons for `Transition`
+and `Cut` in the middle of the screen will swap the view from the program
+scene to the previewed scene. This might need some practising. Best is to have
+someone else to the switching of cameras while you perform.
+
+![OBS Scenes Sources Studio Mode](images/obs-scenes-sources-studio-mode.png)
+
 ## 2 Recording
 
 To make a recording to send in for exclusive broadcasting, make the following
@@ -27,14 +48,14 @@ Essential is to make the settings:
 3. For `Rate Control` choose `CBR` (probably already set to that).
 4. Below that, set a `Bitrate` of `5000 Kpbs`. *
 
-![OBS settings output recording](images/obs-settings-output-recording.png)
+![OBS Settings Output Recording](images/obs-settings-output-recording.png)
 
 ### 2.2 Output Audio
 
 In the `Audio` tab:
 1. Set for all tracks the `Audio Bitrate` to `320`. *
 
-![OBS settings output audio](images/obs-settings-output-audio.png)
+![OBS Settings Output Audio](images/obs-settings-output-audio.png)
 
 ### 2.3 Alternative settings *
 
