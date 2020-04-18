@@ -59,14 +59,13 @@ In the `Audio` tab:
 
 ### 2.3 Alternative settings *
 
-In case your device cannot cope with these settings, make **all** of the
-following changes to the settings indicated with an *:
-
-Under Recording:
+In case your device cannot cope with these settings, make the following changes
+to settings indicated with an * under `Recording`:
 * set `Rescale Output` to `1280x720`
 * set `Bitrate` to `3000 Kpbs`
 
-Under Audio:
+If that is still not enough to make it work properly, change also this setting
+with an * under `Audio`:
 * set `Audio Bitrate` to `192`
 
 ### 2.4 Recording, texts, logos, etc.
