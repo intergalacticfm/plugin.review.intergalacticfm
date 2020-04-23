@@ -92,10 +92,17 @@ def catalog(out, now, locally=False):
         out.write('**Plot** *{}*\n\n'.format(values['plot']))
         out.write('**Genre** *{}*\n\n'.format(values['genre']))
         out.write('**Background** (only shown behind menu)\n')
+        print(filename)
         if locally:
-            out.write('![background](../plugin.video.intergalacticfm/resources/{}-fanart.jpg "background")\n\n'.format(filename))
+            if filename == 'intergalactic_tv':
+                out.write('![background](../plugin.video.intergalacticfm/resources/fanart.jpg "background")\n\n')
+            else:
+                out.write('![background](../plugin.video.intergalacticfm/resources/{}-fanart.jpg "background")\n\n'.format(filename))
         else:
-            out.write('![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/{}-fanart.jpg "background")\n\n'.format(filename))
+            if filename == 'intergalactic_tv':
+                out.write('![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/fanart.jpg "background")\n\n')
+            else:
+                out.write('![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/{}-fanart.jpg "background")\n\n'.format(filename))
         out.write('**Logo** (only shown when pauzing stream)\n')
         out.write('![logo](clearlogo-examples/{}-clearlogo.png "logo")\n\n'.format(filename))
     
