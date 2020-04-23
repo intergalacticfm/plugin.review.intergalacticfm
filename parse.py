@@ -51,11 +51,17 @@ def overview(out, now, locally=False):
         out.write('![Poster](poster-examples/{}-poster.png "Poster")\n\n'.format(filename))
         out.write('**Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):\n')
         if locally:
-            out.write('![Fanart](../plugin.video.intergalacticfm/resources/{}-fanart.jpg "Fanart")\n\n'.format(filename))
+            if filename == 'intergalactic_tv':
+                out.write('![Fanart](../plugin.video.intergalacticfm/resources/fanart.jpg "Fanart")\n\n')
+            else:
+                out.write('![Fanart](../plugin.video.intergalacticfm/resources/{}-fanart.jpg "Fanart")\n\n'.format(filename))
         else:
-            out.write('![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/{}-fanart.jpg "Fanart")\n\n'.format(filename))
+            if filename == 'intergalactic_tv':
+                out.write('![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/fanart.jpg "Fanart")\n\n')
+            else:
+                out.write('![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/{}-fanart.jpg "Fanart")\n\n'.format(filename))
         out.write('**Clear logo** (810 x 310 PNG with transparency):\n')
-        out.write('![Clear logo](clearlogo-examples/{}-clearlogo.png "Fanart")\n\n'.format(filename))
+        out.write('![Clear logo](clearlogo-examples/{}-clearlogo.png "CLearlogo")\n\n'.format(filename))
     
     out.close()
 
@@ -92,7 +98,6 @@ def catalog(out, now, locally=False):
         out.write('**Plot** *{}*\n\n'.format(values['plot']))
         out.write('**Genre** *{}*\n\n'.format(values['genre']))
         out.write('**Background** (only shown behind menu)\n')
-        print(filename)
         if locally:
             if filename == 'intergalactic_tv':
                 out.write('![background](../plugin.video.intergalacticfm/resources/fanart.jpg "background")\n\n')
