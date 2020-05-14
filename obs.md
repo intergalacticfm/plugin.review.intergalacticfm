@@ -44,7 +44,8 @@ someone else to the switching of cameras while you perform.
 ![OBS Scenes Sources Studio Mode](images/obs-scenes-sources-studio-mode.png)
 
 Note that some cameras can also capture audio. Double check that this audio is
-not being used in the audio mixer.
+not being used in the audio mixer. Also disable autofocus of each camera and
+use a fixed focus.
 
 When another application is used to mix the video, for example Resolume, only
 the resulting video should be added as NDI.
@@ -91,7 +92,13 @@ If that is still not enough to make it work properly, change also this setting
 with an * under `Audio`:
 * set `Audio Bitrate` to `192`
 
-### 2.5 Recording, texts, logos, etc.
+### 2.5 Fixing delay
+
+Choose in the menu `Edit` the menu item called `Advanced Audio Properties`.
+There you can set a positive or negative `Sync Offset` in milliseconds for each
+audio source.
+
+### 2.6 Recording, texts, logos, etc.
 
 Record **without** any logos or text in the video! Also, do not make
 announcements in the audio.
