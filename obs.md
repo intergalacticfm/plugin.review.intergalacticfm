@@ -47,6 +47,10 @@ Note that some cameras can also capture audio. Double check that this audio is
 not being used in the audio mixer. Also disable autofocus of each camera and
 use a fixed focus.
 
+If you are performing by yourself, an automated scene switcher such as
+https://obsproject.com/forum/resources/advanced-scene-switcher.395/ is very
+helpful.
+
 When another application is used to mix the video, for example Resolume, only
 the resulting video should be added as NDI.
 
