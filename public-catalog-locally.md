@@ -77,7 +77,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 **Plot** *Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.*
 
-**Genre** *electronic, italo, disco, house, electro, techno, EBM, wave, metal*
+**Genre** *disco, house, electro, techno*
 
 **Background** (only shown behind menu)
 ![background](../plugin.video.intergalacticfm/resources/laniakea-fanart.jpg "background")
@@ -281,5 +281,5 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 The video plugin can be installed directly from within Kodi. For more information, see https://kodi.tv/addon/plugins-video-add-ons/intergalactic-fm-tv
 
-This overview has been automatically generated on 2020-11-06 16:25:17.
+This overview has been automatically generated on 2020-11-06 16:33:11.
 

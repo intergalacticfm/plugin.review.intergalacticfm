@@ -2,7 +2,7 @@
 
 [![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-the_dream_machine_tv-poster.png "Poster")](#the-dream-machine-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-laniakea-poster.png "Poster")](#laniakea)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-submit-poster.png "Poster")](#submit)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-elcamino-poster.png "Poster")](#el-camino)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#mule-driver)[![Poster](poster-examples/small-leftover-poster.png "Poster")](#leftover)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-austin_cassell-poster.png "Poster")](#austin-cassell)
 
-Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2020-11-06 16:25:17.
+Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2020-11-06 16:33:11.
 
 **Pleas note:** that the examples below with a **clearlogo** are **only** shown in Kodi when you hit pause. The clearlogo is not shown during normal playback. So a stream can still sport its own logos whereever on the screen they want.
 
@@ -88,7 +88,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Plot** (twenty to thirty words): *Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.*
 
-**Genre** (one to three genres): *electronic, italo, disco, house, electro, techno, EBM, wave, metal*
+**Genre** (one to three genres): *disco, house, electro, techno*
 
 **ID and basename**: `laniakea` and `laniakea`
 
