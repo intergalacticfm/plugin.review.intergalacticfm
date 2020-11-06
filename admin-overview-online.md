@@ -1,8 +1,8 @@
 # Intergalactic FM streams for Kodi video plugin
 
-[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-submit-poster.png "Poster")](#submit)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-elcamino-poster.png "Poster")](#el-camino)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#mule-driver)[![Poster](poster-examples/small-leftover-poster.png "Poster")](#leftover)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-austin_cassell-poster.png "Poster")](#austin-cassell)
+[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-the_dream_machine_tv-poster.png "Poster")](#the-dream-machine-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-laniakea-poster.png "Poster")](#laniakea)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-submit-poster.png "Poster")](#submit)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-elcamino-poster.png "Poster")](#el-camino)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#mule-driver)[![Poster](poster-examples/small-leftover-poster.png "Poster")](#leftover)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-austin_cassell-poster.png "Poster")](#austin-cassell)
 
-Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2020-04-23 17:11:24.
+Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2020-11-06 16:25:17.
 
 **Pleas note:** that the examples below with a **clearlogo** are **only** shown in Kodi when you hit pause. The clearlogo is not shown during normal playback. So a stream can still sport its own logos whereever on the screen they want.
 
@@ -24,6 +24,25 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Clear logo** (810 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/cbs_tv-clearlogo.png "CLearlogo")
+
+## The Dream Machine TV
+
+**Tagline** (two to five words): *You Are Not Alone*
+
+**Plot** (twenty to thirty words): *This stream is Intergalactic FM's video channel called The Dream Machine for soundtracks, ambient and experimental music.*
+
+**Genre** (one to three genres): *ambient, experimental, soundtracks*
+
+**ID and basename**: `tdmtv` and `the_dream_machine_tv`
+
+**Poster** (1000 x 1500 PNG, main logo in center):
+![Poster](poster-examples/the_dream_machine_tv-poster.png "Poster")
+
+**Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
+![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/the_dream_machine_tv-fanart.jpg "Fanart")
+
+**Clear logo** (810 x 310 PNG with transparency):
+![Clear logo](clearlogo-examples/the_dream_machine_tv-clearlogo.png "CLearlogo")
 
 ## Murder Capital TV
 
@@ -50,7 +69,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Plot** (twenty to thirty words): *Hailing from the UK, Magic Waves has been broadcasting since 2006. Known for underground music in their legendary regular Sunday night broadcasts, our team brings you music and culture from the future and past with the highest passion.*
 
-**Genre** (one to three genres): *Future Past*
+**Genre** (one to three genres): *future past*
 
 **ID and basename**: `mw` and `magic_waves`
 
@@ -62,6 +81,25 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Clear logo** (810 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/magic_waves-clearlogo.png "CLearlogo")
+
+## Laniakea
+
+**Tagline** (two to five words): *In the sunken city of R'lyeh, something is stirring*
+
+**Plot** (twenty to thirty words): *Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.*
+
+**Genre** (one to three genres): *electronic, italo, disco, house, electro, techno, EBM, wave, metal*
+
+**ID and basename**: `laniakea` and `laniakea`
+
+**Poster** (1000 x 1500 PNG, main logo in center):
+![Poster](poster-examples/laniakea-poster.png "Poster")
+
+**Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
+![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/laniakea-fanart.jpg "Fanart")
+
+**Clear logo** (810 x 310 PNG with transparency):
+![Clear logo](clearlogo-examples/laniakea-clearlogo.png "CLearlogo")
 
 ## Neon
 

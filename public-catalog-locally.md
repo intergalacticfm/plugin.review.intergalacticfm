@@ -1,6 +1,6 @@
 # Intergalactic FM streams for Kodi video plugin
 
-[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-submit-poster.png "Poster")](#submit)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-elcamino-poster.png "Poster")](#el-camino)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#mule-driver)[![Poster](poster-examples/small-leftover-poster.png "Poster")](#leftover)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-austin_cassell-poster.png "Poster")](#austin-cassell)
+[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-the_dream_machine_tv-poster.png "Poster")](#the-dream-machine-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-laniakea-poster.png "Poster")](#laniakea)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-submit-poster.png "Poster")](#submit)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-elcamino-poster.png "Poster")](#el-camino)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#mule-driver)[![Poster](poster-examples/small-leftover-poster.png "Poster")](#leftover)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-austin_cassell-poster.png "Poster")](#austin-cassell)
 
 Streams are only available in Kodi if they are live. When they are not live, they are hidden.
 
@@ -20,6 +20,22 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/cbs_tv-clearlogo.png "logo")
+
+# The Dream Machine TV
+
+![menu item](poster-examples/the_dream_machine_tv-poster.png "menu item")
+
+**Tagline** *You Are Not Alone*
+
+**Plot** *This stream is Intergalactic FM's video channel called The Dream Machine for soundtracks, ambient and experimental music.*
+
+**Genre** *ambient, experimental, soundtracks*
+
+**Background** (only shown behind menu)
+![background](../plugin.video.intergalacticfm/resources/the_dream_machine_tv-fanart.jpg "background")
+
+**Logo** (only shown when pauzing stream)
+![logo](clearlogo-examples/the_dream_machine_tv-clearlogo.png "logo")
 
 # Murder Capital TV
 
@@ -45,13 +61,29 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 **Plot** *Hailing from the UK, Magic Waves has been broadcasting since 2006. Known for underground music in their legendary regular Sunday night broadcasts, our team brings you music and culture from the future and past with the highest passion.*
 
-**Genre** *Future Past*
+**Genre** *future past*
 
 **Background** (only shown behind menu)
 ![background](../plugin.video.intergalacticfm/resources/magic_waves-fanart.jpg "background")
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/magic_waves-clearlogo.png "logo")
+
+# Laniakea
+
+![menu item](poster-examples/laniakea-poster.png "menu item")
+
+**Tagline** *In the sunken city of R'lyeh, something is stirring*
+
+**Plot** *Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.*
+
+**Genre** *electronic, italo, disco, house, electro, techno, EBM, wave, metal*
+
+**Background** (only shown behind menu)
+![background](../plugin.video.intergalacticfm/resources/laniakea-fanart.jpg "background")
+
+**Logo** (only shown when pauzing stream)
+![logo](clearlogo-examples/laniakea-clearlogo.png "logo")
 
 # Neon
 
@@ -249,5 +281,5 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 The video plugin can be installed directly from within Kodi. For more information, see https://kodi.tv/addon/plugins-video-add-ons/intergalactic-fm-tv
 
-This overview has been automatically generated on 2020-04-23 17:11:24.
+This overview has been automatically generated on 2020-11-06 16:25:17.
 
