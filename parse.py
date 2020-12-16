@@ -60,7 +60,7 @@ def overview(out, now, locally=False):
                 out.write('![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/fanart.jpg "Fanart")\n\n')
             else:
                 out.write('![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/{}-fanart.jpg "Fanart")\n\n'.format(filename))
-        out.write('**Clear logo** (810 x 310 PNG with transparency):\n')
+        out.write('**Clear logo** (800 x 310 PNG with transparency):\n')
         out.write('![Clear logo](clearlogo-examples/{}-clearlogo.png "CLearlogo")\n\n'.format(filename))
     
     out.close()
