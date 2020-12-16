@@ -2,7 +2,7 @@
 
 [![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-the_dream_machine_tv-poster.png "Poster")](#the-dream-machine-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-laniakea-poster.png "Poster")](#laniakea)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-submit-poster.png "Poster")](#submit)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-elcamino-poster.png "Poster")](#el-camino)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#mule-driver)[![Poster](poster-examples/small-leftover-poster.png "Poster")](#leftover)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-austin_cassell-poster.png "Poster")](#austin-cassell)
 
-Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2020-11-06 16:33:11.
+Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2020-12-16 20:33:17.
 
 **Pleas note:** that the examples below with a **clearlogo** are **only** shown in Kodi when you hit pause. The clearlogo is not shown during normal playback. So a stream can still sport its own logos whereever on the screen they want.
 
@@ -22,7 +22,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
 ![Fanart](../plugin.video.intergalacticfm/resources/cbs_tv-fanart.jpg "Fanart")
 
-**Clear logo** (810 x 310 PNG with transparency):
+**Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/cbs_tv-clearlogo.png "CLearlogo")
 
 ## The Dream Machine TV
@@ -41,7 +41,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
 ![Fanart](../plugin.video.intergalacticfm/resources/the_dream_machine_tv-fanart.jpg "Fanart")
 
-**Clear logo** (810 x 310 PNG with transparency):
+**Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/the_dream_machine_tv-clearlogo.png "CLearlogo")
 
 ## Murder Capital TV
@@ -60,7 +60,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
 ![Fanart](../plugin.video.intergalacticfm/resources/fanart.jpg "Fanart")
 
-**Clear logo** (810 x 310 PNG with transparency):
+**Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/intergalactic_tv-clearlogo.png "CLearlogo")
 
 ## Magic Waves
@@ -79,7 +79,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
 ![Fanart](../plugin.video.intergalacticfm/resources/magic_waves-fanart.jpg "Fanart")
 
-**Clear logo** (810 x 310 PNG with transparency):
+**Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/magic_waves-clearlogo.png "CLearlogo")
 
 ## Laniakea
@@ -98,7 +98,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
 ![Fanart](../plugin.video.intergalacticfm/resources/laniakea-fanart.jpg "Fanart")
 
-**Clear logo** (810 x 310 PNG with transparency):
+**Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/laniakea-clearlogo.png "CLearlogo")
 
 ## Neon
@@ -117,7 +117,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
 ![Fanart](../plugin.video.intergalacticfm/resources/neon-fanart.jpg "Fanart")
 
-**Clear logo** (810 x 310 PNG with transparency):
+**Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/neon-clearlogo.png "CLearlogo")
 
 ## Submit
@@ -136,7 +136,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
 ![Fanart](../plugin.video.intergalacticfm/resources/submit-fanart.jpg "Fanart")
 
-**Clear logo** (810 x 310 PNG with transparency):
+**Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/submit-clearlogo.png "CLearlogo")
 
 ## Discotto
@@ -155,7 +155,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
 ![Fanart](../plugin.video.intergalacticfm/resources/discotto-fanart.jpg "Fanart")
 
-**Clear logo** (810 x 310 PNG with transparency):
+**Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/discotto-clearlogo.png "CLearlogo")
 
 ## El Camino
@@ -174,7 +174,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
 ![Fanart](../plugin.video.intergalacticfm/resources/elcamino-fanart.jpg "Fanart")
 
-**Clear logo** (810 x 310 PNG with transparency):
+**Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/elcamino-clearlogo.png "CLearlogo")
 
 ## Shipwrec
@@ -193,7 +193,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
 ![Fanart](../plugin.video.intergalacticfm/resources/shipwrec-fanart.jpg "Fanart")
 
-**Clear logo** (810 x 310 PNG with transparency):
+**Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/shipwrec-clearlogo.png "CLearlogo")
 
 ## Onderwereld
@@ -212,7 +212,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
 ![Fanart](../plugin.video.intergalacticfm/resources/onderwereld-fanart.jpg "Fanart")
 
-**Clear logo** (810 x 310 PNG with transparency):
+**Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/onderwereld-clearlogo.png "CLearlogo")
 
 ## Mule Driver
@@ -231,7 +231,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
 ![Fanart](../plugin.video.intergalacticfm/resources/muledriver-fanart.jpg "Fanart")
 
-**Clear logo** (810 x 310 PNG with transparency):
+**Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/muledriver-clearlogo.png "CLearlogo")
 
 ## Leftover
@@ -250,7 +250,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
 ![Fanart](../plugin.video.intergalacticfm/resources/leftover-fanart.jpg "Fanart")
 
-**Clear logo** (810 x 310 PNG with transparency):
+**Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/leftover-clearlogo.png "CLearlogo")
 
 ## Vunk
@@ -269,7 +269,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
 ![Fanart](../plugin.video.intergalacticfm/resources/vunk-fanart.jpg "Fanart")
 
-**Clear logo** (810 x 310 PNG with transparency):
+**Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/vunk-clearlogo.png "CLearlogo")
 
 ## Clone
@@ -288,7 +288,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
 ![Fanart](../plugin.video.intergalacticfm/resources/clone-fanart.jpg "Fanart")
 
-**Clear logo** (810 x 310 PNG with transparency):
+**Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/clone-clearlogo.png "CLearlogo")
 
 ## Zahara
@@ -307,7 +307,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
 ![Fanart](../plugin.video.intergalacticfm/resources/zahara-fanart.jpg "Fanart")
 
-**Clear logo** (810 x 310 PNG with transparency):
+**Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/zahara-clearlogo.png "CLearlogo")
 
 ## Austin Cassell
@@ -326,6 +326,6 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
 ![Fanart](../plugin.video.intergalacticfm/resources/austin_cassell-fanart.jpg "Fanart")
 
-**Clear logo** (810 x 310 PNG with transparency):
+**Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/austin_cassell-clearlogo.png "CLearlogo")
 
