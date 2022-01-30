@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
+'''Parses resources to create review.'''
 
 from json import load
 from datetime import datetime
-from pprint import pprint
 
 
 def overview(out, now, locally=False):
@@ -62,7 +62,7 @@ def overview(out, now, locally=False):
                 out.write('![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/{}-fanart.jpg "Fanart")\n\n'.format(filename))
         out.write('**Clear logo** (800 x 310 PNG with transparency):\n')
         out.write('![Clear logo](clearlogo-examples/{}-clearlogo.png "CLearlogo")\n\n'.format(filename))
-    
+
     out.close()
 
 def catalog(out, now, locally=False):
@@ -110,7 +110,7 @@ def catalog(out, now, locally=False):
                 out.write('![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/{}-fanart.jpg "background")\n\n'.format(filename))
         out.write('**Logo** (only shown when pauzing stream)\n')
         out.write('![logo](clearlogo-examples/{}-clearlogo.png "logo")\n\n'.format(filename))
-    
+
     out.write('# Colophon\n\n')
     out.write('The video plugin can be installed directly from within Kodi. For more information, see https://kodi.tv/addon/plugins-video-add-ons/intergalactic-fm-tv')
     out.write('\n\n')
