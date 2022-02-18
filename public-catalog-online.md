@@ -1,6 +1,6 @@
 # Intergalactic FM streams for Kodi video plugin
 
-[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-the_dream_machine_tv-poster.png "Poster")](#the-dream-machine-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-laniakea-poster.png "Poster")](#laniakea)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-submit-poster.png "Poster")](#submit)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-elcamino-poster.png "Poster")](#el-camino)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#mule-driver)[![Poster](poster-examples/small-leftover-poster.png "Poster")](#leftover)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-austin_cassell-poster.png "Poster")](#austin-cassell)
+[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-the_dream_machine_tv-poster.png "Poster")](#the-dream-machine-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-laniakea-poster.png "Poster")](#laniakea)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-elcamino-poster.png "Poster")](#el-camino)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#mule-driver)[![Poster](poster-examples/small-leftover-poster.png "Poster")](#leftover)[![Poster](poster-examples/small-reveal-poster.png "Poster")](#reveal)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-austin_cassell-poster.png "Poster")](#austin-cassell)[![Poster](poster-examples/small-cobra_fm-poster.png "Poster")](#cobra-fm)
 
 Streams are only available in Kodi if they are live. When they are not live, they are hidden.
 
@@ -77,7 +77,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 **Plot** *Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.*
 
-**Genre** *disco, house, electro, techno*
+**Genre** *electronic, techno, disco, house*
 
 **Background** (only shown behind menu)
 ![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/laniakea-fanart.jpg "background")
@@ -100,22 +100,6 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/neon-clearlogo.png "logo")
-
-# Submit
-
-![menu item](poster-examples/submit-poster.png "menu item")
-
-**Tagline** *Gesloten Cirkel's stream*
-
-**Plot** *Stream from the producer named Gesloten Cirkel. Submit to his stream with his music and visuals.*
-
-**Genre** *electro, acid, techno*
-
-**Background** (only shown behind menu)
-![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/submit-fanart.jpg "background")
-
-**Logo** (only shown when pauzing stream)
-![logo](clearlogo-examples/submit-clearlogo.png "logo")
 
 # Discotto
 
@@ -213,6 +197,22 @@ Streams are only available in Kodi if they are live. When they are not live, the
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/leftover-clearlogo.png "logo")
 
+# REVEAL
+
+![menu item](poster-examples/reveal-poster.png "menu item")
+
+**Tagline** *Lifting the veil*
+
+**Plot** *Sometimes you want to go where everybody knows your name and they're always glad you came. You want to be where you can see our troubles are all the same. You want to be where everybody knows your name.*
+
+**Genre** *electronic music*
+
+**Background** (only shown behind menu)
+![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/reveal-fanart.jpg "background")
+
+**Logo** (only shown when pauzing stream)
+![logo](clearlogo-examples/reveal-clearlogo.png "logo")
+
 # Vunk
 
 ![menu item](poster-examples/vunk-poster.png "menu item")
@@ -277,9 +277,25 @@ Streams are only available in Kodi if they are live. When they are not live, the
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/austin_cassell-clearlogo.png "logo")
 
+# Cobra FM
+
+![menu item](poster-examples/cobra_fm-poster.png "menu item")
+
+**Tagline** *Live From The Snakepit*
+
+**Plot** *Brought to you by the Creme Organization, live from the Snakepit Studios in Zagreb, it is Cobra FM.*
+
+**Genre** *electromic music*
+
+**Background** (only shown behind menu)
+![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/cobra_fm-fanart.jpg "background")
+
+**Logo** (only shown when pauzing stream)
+![logo](clearlogo-examples/cobra_fm-clearlogo.png "logo")
+
 # Colophon
 
 The video plugin can be installed directly from within Kodi. For more information, see https://kodi.tv/addon/plugins-video-add-ons/intergalactic-fm-tv
 
-This overview has been automatically generated on 2020-12-16 20:33:17.
+This overview has been automatically generated on 2022-02-18 13:16:38.
 
