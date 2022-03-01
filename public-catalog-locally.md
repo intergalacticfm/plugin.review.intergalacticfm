@@ -123,7 +123,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 **Tagline** *Es el Camino*
 
-**Plot** *Miqkael has been a dj since 1997 and lived in Barcelona from 2000 until 2011, playing at Moog and other clubs. Since that time he has been also performing around Europe. Streaming from his Basque homeland, he shows you the way by mixing love and anger.*
+**Plot** *Miqkael has been a DJ since 1997 and lived in Barcelona from 2000 until 2011, playing at Moog and other clubs. Since that time he has been also performing around Europe. Streaming from his Basque homeland, he shows you the way by mixing love and anger.*
 
 **Genre** *techno, disco, chicago, electro*
 
@@ -219,7 +219,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 **Tagline** *Music from the Heart*
 
-**Plot** *Music straight from the heart is what David Vunk is all about. Known for his label Moustace Records and his envigorating dj sets and productions, watch his weekly stream on Wednesday evening from West Coast's Rotterdam.*
+**Plot** *Music straight from the heart is what David Vunk is all about. Known for his label Moustace Records and his envigorating DJ sets and productions, watch his weekly stream on Wednesday evening from West Coast's Rotterdam.*
 
 **Genre** *techno, acid, italo, disco*
 
@@ -235,7 +235,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 **Tagline** *Serge Clone's stream*
 
-**Plot** *Serge Clone has a record shop located in Rotterdam, the Netherlands. Next to having a label and begin a distributor focused on electro, techno, house, soundtracks, (italo) disco and much more, he is also an active dj and producer himself.*
+**Plot** *Serge Clone has a record shop located in Rotterdam, the Netherlands. Next to having a label and begin a distributor focused on electro, techno, house, soundtracks, (italo) disco and much more, he is also an active DJ and producer himself.*
 
 **Genre** *electronic music*
 
@@ -251,7 +251,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 **Tagline** *Cocktailbar Scheveningen*
 
-**Plot** *Live stream from Zahara cocktail bar which is located directly at the beach in Scheveningen, the Netherlands. A frequent location for Intergalactic FM djs and has hosted for many of the IFM's infamous top 100. The most West you can go on Holland's Coast.*
+**Plot** *Live stream from Zahara cocktail bar which is located directly at the beach in Scheveningen, the Netherlands. A frequent location for Intergalactic FM DJs and has hosted for many of the IFM's infamous top 100. The most West you can go on Holland's Coast.*
 
 **Genre** *electronic music*
 
@@ -267,7 +267,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 **Tagline** *Austin Cassell's stream*
 
-**Plot** *UK radio host and dj specialising in braindance, experimental, old school techno and multigenre dj sets. He has been part of the IFM krew since 2012 curating the very best of new music, classic tracks and exclusive guest sets. Previous guests include Wisp, Global Goon, NEZ, VLR and Impakt*
+**Plot** *UK radio host and DJ specialising in braindance, experimental, old school techno and multigenre DJ sets. He has been part of the IFM krew since 2012 curating the very best of new music, classic tracks and exclusive guest sets. Previous guests include Wisp, Global Goon, NEZ, VLR and Impakt*
 
 **Genre** *braindance, experimental, old school techno*
 
@@ -299,7 +299,7 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 **Tagline** *Welcome 2da Club*
 
-**Plot** *Stream of Club 508. Mix of recordings and live streams of dj sets and live performances.*
+**Plot** *Stream of Club 508. Mix of recordings and live streams of DJ sets and live performances.*
 
 **Genre** *disco, house, techno, italo, electro, experimental electronics*
 
@@ -313,5 +313,5 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 The video plugin can be installed directly from within Kodi. For more information, see https://kodi.tv/addon/plugins-video-add-ons/intergalactic-fm-tv
 
-This overview has been automatically generated on 2022-03-01 11:48:40.
+This overview has been automatically generated on 2022-03-01 11:53:40.
 

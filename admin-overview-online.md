@@ -2,7 +2,7 @@
 
 [![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-the_dream_machine_tv-poster.png "Poster")](#the-dream-machine-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-laniakea-poster.png "Poster")](#laniakea)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-elcamino-poster.png "Poster")](#el-camino)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#mule-driver)[![Poster](poster-examples/small-leftover-poster.png "Poster")](#leftover)[![Poster](poster-examples/small-reveal-poster.png "Poster")](#reveal)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-austin_cassell-poster.png "Poster")](#austin-cassell)[![Poster](poster-examples/small-cobrafm-poster.png "Poster")](#cobra-fm)[![Poster](poster-examples/small-508-poster.png "Poster")](#508)
 
-Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2022-03-01 11:48:40.
+Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2022-03-01 11:53:40.
 
 **Pleas note:** that the examples below with a **clearlogo** are **only** shown in Kodi when you hit pause. The clearlogo is not shown during normal playback. So a stream can still sport its own logos whereever on the screen they want.
 
@@ -143,7 +143,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *Es el Camino*
 
-**Plot** (twenty to thirty words): *Miqkael has been a dj since 1997 and lived in Barcelona from 2000 until 2011, playing at Moog and other clubs. Since that time he has been also performing around Europe. Streaming from his Basque homeland, he shows you the way by mixing love and anger.*
+**Plot** (twenty to thirty words): *Miqkael has been a DJ since 1997 and lived in Barcelona from 2000 until 2011, playing at Moog and other clubs. Since that time he has been also performing around Europe. Streaming from his Basque homeland, he shows you the way by mixing love and anger.*
 
 **Genre** (one to three genres): *techno, disco, chicago, electro*
 
@@ -257,7 +257,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *Music from the Heart*
 
-**Plot** (twenty to thirty words): *Music straight from the heart is what David Vunk is all about. Known for his label Moustace Records and his envigorating dj sets and productions, watch his weekly stream on Wednesday evening from West Coast's Rotterdam.*
+**Plot** (twenty to thirty words): *Music straight from the heart is what David Vunk is all about. Known for his label Moustace Records and his envigorating DJ sets and productions, watch his weekly stream on Wednesday evening from West Coast's Rotterdam.*
 
 **Genre** (one to three genres): *techno, acid, italo, disco*
 
@@ -276,7 +276,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *Serge Clone's stream*
 
-**Plot** (twenty to thirty words): *Serge Clone has a record shop located in Rotterdam, the Netherlands. Next to having a label and begin a distributor focused on electro, techno, house, soundtracks, (italo) disco and much more, he is also an active dj and producer himself.*
+**Plot** (twenty to thirty words): *Serge Clone has a record shop located in Rotterdam, the Netherlands. Next to having a label and begin a distributor focused on electro, techno, house, soundtracks, (italo) disco and much more, he is also an active DJ and producer himself.*
 
 **Genre** (one to three genres): *electronic music*
 
@@ -295,7 +295,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *Cocktailbar Scheveningen*
 
-**Plot** (twenty to thirty words): *Live stream from Zahara cocktail bar which is located directly at the beach in Scheveningen, the Netherlands. A frequent location for Intergalactic FM djs and has hosted for many of the IFM's infamous top 100. The most West you can go on Holland's Coast.*
+**Plot** (twenty to thirty words): *Live stream from Zahara cocktail bar which is located directly at the beach in Scheveningen, the Netherlands. A frequent location for Intergalactic FM DJs and has hosted for many of the IFM's infamous top 100. The most West you can go on Holland's Coast.*
 
 **Genre** (one to three genres): *electronic music*
 
@@ -314,7 +314,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *Austin Cassell's stream*
 
-**Plot** (twenty to thirty words): *UK radio host and dj specialising in braindance, experimental, old school techno and multigenre dj sets. He has been part of the IFM krew since 2012 curating the very best of new music, classic tracks and exclusive guest sets. Previous guests include Wisp, Global Goon, NEZ, VLR and Impakt*
+**Plot** (twenty to thirty words): *UK radio host and DJ specialising in braindance, experimental, old school techno and multigenre DJ sets. He has been part of the IFM krew since 2012 curating the very best of new music, classic tracks and exclusive guest sets. Previous guests include Wisp, Global Goon, NEZ, VLR and Impakt*
 
 **Genre** (one to three genres): *braindance, experimental, old school techno*
 
@@ -352,7 +352,7 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Tagline** (two to five words): *Welcome 2da Club*
 
-**Plot** (twenty to thirty words): *Stream of Club 508. Mix of recordings and live streams of dj sets and live performances.*
+**Plot** (twenty to thirty words): *Stream of Club 508. Mix of recordings and live streams of DJ sets and live performances.*
 
 **Genre** (one to three genres): *disco, house, techno, italo, electro, experimental electronics*
 
