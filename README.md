@@ -5,7 +5,7 @@ the moment only the video plugin is being report on.
 
 ## Public catalog
 
-To view the public catalog with streams of the Intergalactic FM TV video plugin for Kodi, see [https://github.com/intergalacticfm/plugin.review.intergalacticfm/blob/master/admin-overview-online.md](public-overview-online.md) in your browser.
+To view the public catalog with streams of the Intergalactic FM TV video plugin for Kodi, see [public-overview-online.md](https://github.com/intergalacticfm/plugin.review.intergalacticfm/blob/master/admin-overview-online.md) in your browser.
 
 
 ## Admin overview
