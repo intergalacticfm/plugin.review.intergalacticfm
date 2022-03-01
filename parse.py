@@ -43,6 +43,8 @@ def overview(out, now, locally=False):
             filename = 'muledriver'
         elif values['label'].lower() == 'el camino': # exception
             filename = 'elcamino'
+        elif values['label'].lower() == 'cobra fm': # exception
+            filename = 'cobrafm'
         elif values['label'].lower() == 'murder capital tv': # exception
             filename = 'intergalactic_tv'
         out.write('## {}\n\n'.format(values['label']))
@@ -80,6 +82,9 @@ def catalog(out, now, locally=False):
         elif values['label'].lower() == 'el camino': # exception
             filename = 'elcamino'
             anchor = 'el-camino'
+        elif values['label'].lower() == 'cobra fm': # exception
+            filename = 'cobrafm'
+            anchor = 'cobra-fm'
         elif values['label'].lower() == 'murder capital tv': # exception
             filename = 'intergalactic_tv'
             anchor = 'intergalactic-tv'
@@ -93,6 +98,8 @@ def catalog(out, now, locally=False):
             filename = 'muledriver'
         elif values['label'].lower() == 'el camino': # exception
             filename = 'elcamino'
+        elif values['label'].lower() == 'cobra fm': # exception
+            filename = 'cobrafm'
         elif values['label'].lower() == 'murder capital tv': # exception
             filename = 'intergalactic_tv'
         out.write('# {}\n\n'.format(values['label']))
