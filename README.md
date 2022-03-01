@@ -5,7 +5,7 @@ the moment only the video plugin is being report on.
 
 ## Public catalog
 
-To view the public catalog with streams of the Intergalactic FM TV video plugin for Kodi, see [public-overview-online.md](https://github.com/intergalacticfm/plugin.review.intergalacticfm/blob/master/admin-overview-online.md) in your browser.
+To view the public catalog with streams of the Intergalactic FM TV video plugin for Kodi, see [public-catalog-online.md](https://github.com/intergalacticfm/plugin.review.intergalacticfm/blob/master/admin-catalog-online.md) in your browser.
 
 
 ## Admin overview
@@ -20,7 +20,7 @@ Screenshots are in PNG but are optimized with `optipng` to reduce file size.
 
 ## Extra
 
-Also available are [public-overview-locally.md](public-overview-locally.md) and [admin-overview-online.md](admin-overview-online.md).
+Also available are [public-overview-locally.md](public-overview-locally.md) and [public-overview-online.md](https://github.com/intergalacticfm/plugin.review.intergalacticfm/blob/master/admin-overview-online.md).
 
 For developers, see also the script `_update_locally.sh`.
 
