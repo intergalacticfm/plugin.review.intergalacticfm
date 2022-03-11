@@ -1,6 +1,6 @@
 # Intergalactic FM streams for Kodi video plugin
 
-[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-the_dream_machine_tv-poster.png "Poster")](#the-dream-machine-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-laniakea-poster.png "Poster")](#laniakea)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-elcamino-poster.png "Poster")](#el-camino)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#mule-driver)[![Poster](poster-examples/small-leftover-poster.png "Poster")](#leftover)[![Poster](poster-examples/small-reveal-poster.png "Poster")](#reveal)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-austin_cassell-poster.png "Poster")](#austin-cassell)[![Poster](poster-examples/small-cobrafm-poster.png "Poster")](#cobra-fm)[![Poster](poster-examples/small-508-poster.png "Poster")](#508)
+[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-the_dream_machine_tv-poster.png "Poster")](#the-dream-machine-tv)[![Poster](poster-examples/small-panama_racing_tv-poster.png "Poster")](#panama-racing-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-laniakea-poster.png "Poster")](#laniakea)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-elcamino-poster.png "Poster")](#el-camino)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#mule-driver)[![Poster](poster-examples/small-leftover-poster.png "Poster")](#leftover)[![Poster](poster-examples/small-reveal-poster.png "Poster")](#reveal)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-austin_cassell-poster.png "Poster")](#austin-cassell)[![Poster](poster-examples/small-cobrafm-poster.png "Poster")](#cobra-fm)[![Poster](poster-examples/small-508-poster.png "Poster")](#508)
 
 Streams are only available in Kodi if they are live. When they are not live, they are hidden.
 
@@ -36,6 +36,22 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 **Logo** (only shown when pauzing stream)
 ![logo](clearlogo-examples/the_dream_machine_tv-clearlogo.png "logo")
+
+# Panama Racing TV
+
+![menu item](poster-examples/panama_racing_tv-poster.png "menu item")
+
+**Tagline** *We Are Your Friends*
+
+**Plot** *This stream is Intergalactic FM's video channel called Panama Racing TV and brings the Panama Racing Club to you, or you to the club.*
+
+**Genre** *electro, acid, italo, disco*
+
+**Background** (only shown behind menu)
+![background](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/panama_racing_tv-fanart.jpg "background")
+
+**Logo** (only shown when pauzing stream)
+![logo](clearlogo-examples/panama_racing_tv-clearlogo.png "logo")
 
 # Murder Capital TV
 
@@ -313,5 +329,5 @@ Streams are only available in Kodi if they are live. When they are not live, the
 
 The video plugin can be installed directly from within Kodi. For more information, see https://kodi.tv/addon/plugins-video-add-ons/intergalactic-fm-tv
 
-This overview has been automatically generated on 2022-03-01 11:53:40.
+This overview has been automatically generated on 2022-03-11 18:13:29.
 

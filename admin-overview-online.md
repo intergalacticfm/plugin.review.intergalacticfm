@@ -1,8 +1,8 @@
 # Intergalactic FM streams for Kodi video plugin
 
-[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-the_dream_machine_tv-poster.png "Poster")](#the-dream-machine-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-laniakea-poster.png "Poster")](#laniakea)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-elcamino-poster.png "Poster")](#el-camino)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#mule-driver)[![Poster](poster-examples/small-leftover-poster.png "Poster")](#leftover)[![Poster](poster-examples/small-reveal-poster.png "Poster")](#reveal)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-austin_cassell-poster.png "Poster")](#austin-cassell)[![Poster](poster-examples/small-cobrafm-poster.png "Poster")](#cobra-fm)[![Poster](poster-examples/small-508-poster.png "Poster")](#508)
+[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-the_dream_machine_tv-poster.png "Poster")](#the-dream-machine-tv)[![Poster](poster-examples/small-panama_racing_tv-poster.png "Poster")](#panama-racing-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-laniakea-poster.png "Poster")](#laniakea)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-elcamino-poster.png "Poster")](#el-camino)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#mule-driver)[![Poster](poster-examples/small-leftover-poster.png "Poster")](#leftover)[![Poster](poster-examples/small-reveal-poster.png "Poster")](#reveal)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-austin_cassell-poster.png "Poster")](#austin-cassell)[![Poster](poster-examples/small-cobrafm-poster.png "Poster")](#cobra-fm)[![Poster](poster-examples/small-508-poster.png "Poster")](#508)
 
-Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2022-03-01 11:53:40.
+Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2022-03-11 18:13:29.
 
 **Pleas note:** that the examples below with a **clearlogo** are **only** shown in Kodi when you hit pause. The clearlogo is not shown during normal playback. So a stream can still sport its own logos whereever on the screen they want.
 
@@ -43,6 +43,25 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/the_dream_machine_tv-clearlogo.png "CLearlogo")
+
+## Panama Racing TV
+
+**Tagline** (two to five words): *We Are Your Friends*
+
+**Plot** (twenty to thirty words): *This stream is Intergalactic FM's video channel called Panama Racing TV and brings the Panama Racing Club to you, or you to the club.*
+
+**Genre** (one to three genres): *electro, acid, italo, disco*
+
+**ID and basename**: `prc` and `panama_racing_tv`
+
+**Poster** (1000 x 1500 PNG, main logo in center):
+![Poster](poster-examples/panama_racing_tv-poster.png "Poster")
+
+**Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
+![Fanart](https://raw.githubusercontent.com/intergalacticfm/plugin.video.intergalacticfm/develop/resources/panama_racing_tv-fanart.jpg "Fanart")
+
+**Clear logo** (800 x 310 PNG with transparency):
+![Clear logo](clearlogo-examples/panama_racing_tv-clearlogo.png "CLearlogo")
 
 ## Murder Capital TV
 
