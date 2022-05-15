@@ -39,6 +39,17 @@ For this, install first
     sudo npm install -g markdown-pdf
 
 
+## Review
+
+Install
+
+    sudo pip3 install kodi-addon-checker
+
+and run
+
+    kodi-addon-checker --branch matrix ../plugin.audio.intergalacticfm
+    kodi-addon-checker --branch matrix ../plugin.video.intergalacticfm
+
 ## Updates
 
 Updates in Kodi's main repository can be made via
