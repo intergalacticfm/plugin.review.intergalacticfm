@@ -1,8 +1,8 @@
 # Intergalactic FM streams for Kodi video plugin
 
-[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-the_dream_machine_tv-poster.png "Poster")](#the-dream-machine-tv)[![Poster](poster-examples/small-panama_racing_tv-poster.png "Poster")](#panama-racing-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-laniakea-poster.png "Poster")](#laniakea)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-elcamino-poster.png "Poster")](#el-camino)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-onderwereld-poster.png "Poster")](#onderwereld)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#mule-driver)[![Poster](poster-examples/small-leftover-poster.png "Poster")](#leftover)[![Poster](poster-examples/small-reveal-poster.png "Poster")](#reveal)[![Poster](poster-examples/small-vunk-poster.png "Poster")](#vunk)[![Poster](poster-examples/small-clone-poster.png "Poster")](#clone)[![Poster](poster-examples/small-zahara-poster.png "Poster")](#zahara)[![Poster](poster-examples/small-austin_cassell-poster.png "Poster")](#austin-cassell)[![Poster](poster-examples/small-cobrafm-poster.png "Poster")](#cobra-fm)[![Poster](poster-examples/small-508-poster.png "Poster")](#508)
+[![Poster](poster-examples/small-cbs_tv-poster.png "Poster")](#cbs-tv)[![Poster](poster-examples/small-panama_racing_tv-poster.png "Poster")](#panama-racing-tv)[![Poster](poster-examples/small-intergalactic_tv-poster.png "Poster")](#intergalactic-tv)[![Poster](poster-examples/small-magic_waves-poster.png "Poster")](#magic-waves)[![Poster](poster-examples/small-laniakea-poster.png "Poster")](#laniakea)[![Poster](poster-examples/small-neon-poster.png "Poster")](#neon)[![Poster](poster-examples/small-discotto-poster.png "Poster")](#discotto)[![Poster](poster-examples/small-elcamino-poster.png "Poster")](#el-camino)[![Poster](poster-examples/small-shipwrec-poster.png "Poster")](#shipwrec)[![Poster](poster-examples/small-muledriver-poster.png "Poster")](#mule-driver)[![Poster](poster-examples/small-reveal-poster.png "Poster")](#reveal)
 
-Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2022-03-11 18:13:29.
+Below are the specific texts and images required by Kodi. Please, try to meet the requirements as close as possible. Kodi has many different views and we do not know which view for navigating and playing streams is used by the user. So using this format as described by Kodi itself gives the best result for all. Let is know when something needs to be changed. This overview has been automatically generated on 2025-02-21 09:11:09.
 
 **Pleas note:** that the examples below with a **clearlogo** are **only** shown in Kodi when you hit pause. The clearlogo is not shown during normal playback. So a stream can still sport its own logos whereever on the screen they want.
 
@@ -24,25 +24,6 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/cbs_tv-clearlogo.png "CLearlogo")
-
-## The Dream Machine TV
-
-**Tagline** (two to five words): *You Are Not Alone*
-
-**Plot** (twenty to thirty words): *This stream is Intergalactic FM's video channel called The Dream Machine for soundtracks, ambient and experimental music.*
-
-**Genre** (one to three genres): *ambient, experimental, soundtracks*
-
-**ID and basename**: `tdmtv` and `the_dream_machine_tv`
-
-**Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](poster-examples/the_dream_machine_tv-poster.png "Poster")
-
-**Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
-![Fanart](../plugin.video.intergalacticfm/resources/the_dream_machine_tv-fanart.jpg "Fanart")
-
-**Clear logo** (800 x 310 PNG with transparency):
-![Clear logo](clearlogo-examples/the_dream_machine_tv-clearlogo.png "CLearlogo")
 
 ## Panama Racing TV
 
@@ -196,25 +177,6 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/shipwrec-clearlogo.png "CLearlogo")
 
-## Onderwereld
-
-**Tagline** (two to five words): *electronic music*
-
-**Plot** (twenty to thirty words): *Platform for all kinds of unique electronic music. Onderwereld is streaming from their bunker somewhere in the Hague.*
-
-**Genre** (one to three genres): *electronic music*
-
-**ID and basename**: `onderwereld` and `onderwereld`
-
-**Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](poster-examples/onderwereld-poster.png "Poster")
-
-**Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
-![Fanart](../plugin.video.intergalacticfm/resources/onderwereld-fanart.jpg "Fanart")
-
-**Clear logo** (800 x 310 PNG with transparency):
-![Clear logo](clearlogo-examples/onderwereld-clearlogo.png "CLearlogo")
-
 ## Mule Driver
 
 **Tagline** (two to five words): *Mule driving is not a crime*
@@ -234,25 +196,6 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 **Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/muledriver-clearlogo.png "CLearlogo")
 
-## Leftover
-
-**Tagline** (two to five words): *Straight from the bin*
-
-**Plot** (twenty to thirty words): *Taking from all corners of the underground, Leftover Radio brings weekly broadcasts from DIY communities and free spaces. Personal selections and experimental live-sets are transmitted over makeshift connections to a global audience.*
-
-**Genre** (one to three genres): *electro, acid, tekno*
-
-**ID and basename**: `leftover` and `leftover`
-
-**Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](poster-examples/leftover-poster.png "Poster")
-
-**Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
-![Fanart](../plugin.video.intergalacticfm/resources/leftover-fanart.jpg "Fanart")
-
-**Clear logo** (800 x 310 PNG with transparency):
-![Clear logo](clearlogo-examples/leftover-clearlogo.png "CLearlogo")
-
 ## REVEAL
 
 **Tagline** (two to five words): *Lifting the veil*
@@ -271,118 +214,4 @@ Below are the specific texts and images required by Kodi. Please, try to meet th
 
 **Clear logo** (800 x 310 PNG with transparency):
 ![Clear logo](clearlogo-examples/reveal-clearlogo.png "CLearlogo")
-
-## Vunk
-
-**Tagline** (two to five words): *Music from the Heart*
-
-**Plot** (twenty to thirty words): *Music straight from the heart is what David Vunk is all about. Known for his label Moustace Records and his envigorating DJ sets and productions, watch his weekly stream on Wednesday evening from West Coast's Rotterdam.*
-
-**Genre** (one to three genres): *techno, acid, italo, disco*
-
-**ID and basename**: `vunk` and `vunk`
-
-**Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](poster-examples/vunk-poster.png "Poster")
-
-**Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
-![Fanart](../plugin.video.intergalacticfm/resources/vunk-fanart.jpg "Fanart")
-
-**Clear logo** (800 x 310 PNG with transparency):
-![Clear logo](clearlogo-examples/vunk-clearlogo.png "CLearlogo")
-
-## Clone
-
-**Tagline** (two to five words): *Serge Clone's stream*
-
-**Plot** (twenty to thirty words): *Serge Clone has a record shop located in Rotterdam, the Netherlands. Next to having a label and begin a distributor focused on electro, techno, house, soundtracks, (italo) disco and much more, he is also an active DJ and producer himself.*
-
-**Genre** (one to three genres): *electronic music*
-
-**ID and basename**: `clone` and `clone`
-
-**Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](poster-examples/clone-poster.png "Poster")
-
-**Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
-![Fanart](../plugin.video.intergalacticfm/resources/clone-fanart.jpg "Fanart")
-
-**Clear logo** (800 x 310 PNG with transparency):
-![Clear logo](clearlogo-examples/clone-clearlogo.png "CLearlogo")
-
-## Zahara
-
-**Tagline** (two to five words): *Cocktailbar Scheveningen*
-
-**Plot** (twenty to thirty words): *Live stream from Zahara cocktail bar which is located directly at the beach in Scheveningen, the Netherlands. A frequent location for Intergalactic FM DJs and has hosted for many of the IFM's infamous top 100. The most West you can go on Holland's Coast.*
-
-**Genre** (one to three genres): *electronic music*
-
-**ID and basename**: `zahara` and `zahara`
-
-**Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](poster-examples/zahara-poster.png "Poster")
-
-**Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
-![Fanart](../plugin.video.intergalacticfm/resources/zahara-fanart.jpg "Fanart")
-
-**Clear logo** (800 x 310 PNG with transparency):
-![Clear logo](clearlogo-examples/zahara-clearlogo.png "CLearlogo")
-
-## Austin Cassell
-
-**Tagline** (two to five words): *Austin Cassell's stream*
-
-**Plot** (twenty to thirty words): *UK radio host and DJ specialising in braindance, experimental, old school techno and multigenre DJ sets. He has been part of the IFM krew since 2012 curating the very best of new music, classic tracks and exclusive guest sets. Previous guests include Wisp, Global Goon, NEZ, VLR and Impakt*
-
-**Genre** (one to three genres): *braindance, experimental, old school techno*
-
-**ID and basename**: `djaustincassell` and `austin_cassell`
-
-**Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](poster-examples/austin_cassell-poster.png "Poster")
-
-**Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
-![Fanart](../plugin.video.intergalacticfm/resources/austin_cassell-fanart.jpg "Fanart")
-
-**Clear logo** (800 x 310 PNG with transparency):
-![Clear logo](clearlogo-examples/austin_cassell-clearlogo.png "CLearlogo")
-
-## Cobra FM
-
-**Tagline** (two to five words): *Live From The Snakepit*
-
-**Plot** (twenty to thirty words): *Brought to you by the Creme Organization, live from the Snakepit Studios in Zagreb, it is Cobra FM.*
-
-**Genre** (one to three genres): *electromic music*
-
-**ID and basename**: `cobrafm` and `cobrafm`
-
-**Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](poster-examples/cobrafm-poster.png "Poster")
-
-**Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
-![Fanart](../plugin.video.intergalacticfm/resources/cobrafm-fanart.jpg "Fanart")
-
-**Clear logo** (800 x 310 PNG with transparency):
-![Clear logo](clearlogo-examples/cobrafm-clearlogo.png "CLearlogo")
-
-## 508
-
-**Tagline** (two to five words): *Welcome 2da Club*
-
-**Plot** (twenty to thirty words): *Stream of Club 508. Mix of recordings and live streams of DJ sets and live performances.*
-
-**Genre** (one to three genres): *disco, house, techno, italo, electro, experimental electronics*
-
-**ID and basename**: `508` and `508`
-
-**Poster** (1000 x 1500 PNG, main logo in center):
-![Poster](poster-examples/508-poster.png "Poster")
-
-**Fanart** (1920 x 1080 JPG, only for background, max. quality 96, prefer 90):
-![Fanart](../plugin.video.intergalacticfm/resources/508-fanart.jpg "Fanart")
-
-**Clear logo** (800 x 310 PNG with transparency):
-![Clear logo](clearlogo-examples/508-clearlogo.png "CLearlogo")
 

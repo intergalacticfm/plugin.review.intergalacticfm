@@ -1,7 +1,6 @@
 # plugin.video.intergalacticfm-review
 
-Public catalog and admin overview of the Intergalactic FM plugins for Kodi. At
-the moment only the video plugin is being report on.
+Public catalog and admin overview of the Intergalactic FM plugins for Kodi. At the moment only the video plugin is being report on.
 
 ## Public catalog
 
@@ -27,8 +26,7 @@ For developers, see also the script `_update_locally.sh`.
 
 ## Prerequisists
 
-First, make sure that [plugin.video.intergalacticfm](https://github.com/intergalacticfm/plugin.video.intergalacticfm)
-has been checked out in `..`
+First, make sure that [plugin.video.intergalacticfm](https://github.com/intergalacticfm/plugin.video.intergalacticfm) has been checked out in `..`
 
 Parse JSON file to Markdown and PDF by running
 
@@ -43,7 +41,7 @@ For this, install first
 
 Install
 
-    sudo pip3 install kodi-addon-checker
+    pip install kodi-addon-checker
 
 and run
 
@@ -52,5 +50,5 @@ and run
 
 ## Updates
 
-Updates in Kodi's main repository can be made via
-https://kodi.wiki/view/HOW-TO:Create_add-on_PRs_using_Git_Subtree_Merging
+Updates in Kodi's main repository can be made via https://kodi.wiki/view/HOW-TO:Create_add-on_PRs_using_Git_Subtree_Merging
+
