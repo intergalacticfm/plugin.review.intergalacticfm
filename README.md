@@ -44,12 +44,14 @@ and can be tested with vlc or mpv. The video addon cannot query live the website
 
 Install
 
-    pip install kodi-addon-checker
+    pip install -U kodi-addon-checker
 
 and run
 
     kodi-addon-checker --branch matrix ../plugin.audio.intergalacticfm
+    kodi-addon-checker --branch omega ../plugin.audio.intergalacticfm
     kodi-addon-checker --branch matrix ../plugin.video.intergalacticfm
+    kodi-addon-checker --branch omega ../plugin.video.intergalacticfm
 
 ## Updates
 
